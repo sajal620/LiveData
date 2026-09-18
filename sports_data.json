@@ -2,99 +2,56 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:15:56 AM 19-09-2026",
-  "total_matches": 273,
-  "live_match": 37,
+  "last_update_time": "02:58:19 AM 19-09-2026",
+  "total_matches": 269,
+  "live_match": 24,
   "matches": [
     {
       "status": "LIVE",
       "Category": "Motorsports",
-      "event_name": "MotorGP Vs MotorGP",
+      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
       "eventInfo": {
-        "teamA": "MotorGP",
-        "teamB": "MotorGP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "eventName": "MotoGP Evento",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "18/09/2026 02:00:00 PM"
+        "teamA": "NASCAR CUP SERIES",
+        "teamB": "NASCAR CUP SERIES",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "eventName": "NASCAR",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "startTime": "19/09/2026 02:30:00 AM"
       },
       "streams": [
-        {
-          "channel_name": "TNT2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "MotoGP FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        },
         {
           "channel_name": "SPORTS4 TV HD",
           "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ssssAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_b794520fe47b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "18/09/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "One Fight FHD.",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "user_agent": "Mozilla/5.0",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
         },
         {
-          "channel_name": "STREAM 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
-          "channel_name": "STREAM 3",
-          "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-          "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
+          "channel_name": "NASCAR HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56591/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.43/hls/GRRR.m3u8?",
+          "stream_url": "http://193.47.62.50/hls/ZGGGVVA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_38747064c422"
+      "id": "evt_64739719626b"
     },
     {
       "status": "LIVE",
@@ -107,7 +64,7 @@
         "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
         "eventName": "TENNIS | EVENTO",
         "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "startTime": "18/09/2026 10:00:00 PM"
+        "startTime": "19/09/2026 01:05:00 AM"
       },
       "streams": [
         {
@@ -202,7 +159,7 @@
         "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
         "eventName": "Horse Racing",
         "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "18/09/2026 06:00:00 PM"
+        "startTime": "19/09/2026 01:05:00 AM"
       },
       "streams": [
         {
@@ -254,7 +211,7 @@
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
         "eventName": "GOLF EVENTO",
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "18/09/2026 05:45:00 PM"
+        "startTime": "19/09/2026 01:05:00 AM"
       },
       "streams": [
         {
@@ -297,7 +254,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
         "eventName": "DARTS PDC",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "18/09/2026 11:00:00 PM"
+        "startTime": "19/09/2026 01:05:00 AM"
       },
       "streams": [
         {
@@ -320,449 +277,6 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Widzew Łódź Vs Wieczysta Kraków",
-      "eventInfo": {
-        "teamA": "Widzew Łódź",
-        "teamB": "Wieczysta Kraków",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3115/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334956/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "18/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Beix Sports XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        },
-        {
-          "channel_name": "beiN ES HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        },
-        {
-          "channel_name": "CANAL +",
-          "stream_url": "https://netanjahu.hls.st/t/8be6d4eba17638743a2c131b690195c5/index.m3u8",
-          "referer": "https://iplayer.is/"
-        }
-      ],
-      "id": "evt_cf91853fb09d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kasımpaşa Vs Konyaspor",
-      "eventInfo": {
-        "teamA": "Kasımpaşa",
-        "teamB": "Konyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "18/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.uu6611.com/live/sd-1-4581320.m3u8?txSecret=c045f82b6a8d6ed8066fb909eba97a3a&txTime=6AADB443",
-          "referer": "https://player.up909.com/"
-        },
-        {
-          "channel_name": "beIN1  TR HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
-        },
-        {
-          "channel_name": "SPORTSNET WORLD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/sportsnetworld.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QQQQAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_f9bb9cbb4e10"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "SpVgg Greuther Fürth Vs 1. FC Magdeburg",
-      "eventInfo": {
-        "teamA": "SpVgg Greuther Fürth",
-        "teamB": "1. FC Magdeburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "18/09/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "MBC SPORTS FHD",
-          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
-          "drm_key": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.uu6611.com/live/sd-1-4566540.m3u8?txSecret=86ca359a146fd95704467c426be858b4&txTime=6AADACDB",
-          "referer": "https://player.up909.com/"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/766/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/OOOOAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_7ccca77125cb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "VfL Wolfsburg Vs Darmstadt 98",
-      "eventInfo": {
-        "teamA": "VfL Wolfsburg",
-        "teamB": "Darmstadt 98",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "18/09/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "MBC FHD",
-          "stream_url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
-          "drm_key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.uu6611.com/live/sd-1-4566640.m3u8?txSecret=fd5219b8127cfaa055a4d8bea168844c&txTime=6AADAA57",
-          "referer": "https://player.up909.com/"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/981/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/OOOOAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_f1773d5d03ce"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "TSG Hoffenheim Vs VfL Wolfsburg",
-      "eventInfo": {
-        "teamA": "TSG Hoffenheim",
-        "teamB": "VfL Wolfsburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36652/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5556/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "18/09/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN1 DE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/OOOOAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_58e358996811"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FSV Mainz 05 Vs Eintracht Frankfurt",
-      "eventInfo": {
-        "teamA": "1. FSV Mainz 05",
-        "teamB": "Eintracht Frankfurt",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/484512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/108685/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "18/09/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN2 DE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/OOOOA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_0a9f525af12e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Manchester City Vs Liverpool FC",
-      "eventInfo": {
-        "teamA": "Manchester City",
-        "teamB": "Liverpool FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "19/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1243/index.m3u8"
-        }
-      ],
-      "id": "evt_467bf1d0089b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Rapid București Vs FC Argeș Pitești",
-      "eventInfo": {
-        "teamA": "FC Rapid București",
-        "teamB": "FC Argeș Pitești",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295403/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "19/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/8985/index.m3u8"
-        }
-      ],
-      "id": "evt_0205e4cec183"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Alavés Vs Fútbol Club Barcelona",
-      "eventInfo": {
-        "teamA": "Deportivo Alavés",
-        "teamB": "Fútbol Club Barcelona",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/388473/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "19/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN2 ES DH ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
-        }
-      ],
-      "id": "evt_fe39f3a87460"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "BC Dubai Vs Real Madrid",
-      "eventInfo": {
-        "teamA": "BC Dubai",
-        "teamB": "Real Madrid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/526165/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
-        "eventName": "Euroleague SuperCup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
-        "startTime": "18/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT6 TV HD ",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QQQQA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "ARENA PREMIUM ",
-          "stream_url": "https://netanjahu.hls.st/t/57dc14ced591f68df91c715ab17fde10/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "POLSAT SPORTS",
-          "stream_url": "https://netanjahu.hls.st/t/cadad4eb141d1ef72b1c56e564a5464f/index.m3u8",
-          "referer": "https://iplayer.is/"
-        }
-      ],
-      "id": "evt_be3182f80c79"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Groningen Vs PEC Zwolle",
-      "eventInfo": {
-        "teamA": "FC Groningen",
-        "teamB": "PEC Zwolle",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "19/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/5644/index.m3u8"
-        }
-      ],
-      "id": "evt_87588c09d326"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Muğlaspor Vs Iğdır FK",
-      "eventInfo": {
-        "teamA": "Muğlaspor",
-        "teamB": "Iğdır FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7034/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/388264/image",
-        "eventName": "Trendyol 1.Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
-        "startTime": "18/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/3769/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QQQQAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_a006f2d71cd7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Leeds Rhinos W Vs York Valkyrie W",
-      "eventInfo": {
-        "teamA": "Leeds Rhinos W",
-        "teamB": "York Valkyrie W",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-        "eventName": "English Rugby Super League",
-        "event_logo": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-        "startTime": "18/09/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/OOOO.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_edb0d23650bf"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "KK Crvena zvezda Vs Aris BC",
-      "eventInfo": {
-        "teamA": "KK Crvena zvezda",
-        "teamB": "Aris BC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3505/image",
-        "eventName": "ABA Liga Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36655/image/dark",
-        "startTime": "18/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f1f2d1260687"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Pafos FC Vs AEL Limassol",
-      "eventInfo": {
-        "teamA": "Pafos FC",
-        "teamB": "AEL Limassol",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3407/image",
-        "eventName": "Cyprus League by Stoiximan",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/171/image/dark",
-        "startTime": "18/09/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/EAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/EAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_f117ba77d115"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Ultimate Sevens: Biarritz Vs Ultimate Sevens: Biarritz",
-      "eventInfo": {
-        "teamA": "Ultimate Sevens: Biarritz",
-        "teamB": "Ultimate Sevens: Biarritz",
-        "teamAFlag": "data:image/png;base64,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",
-        "teamBFlag": "data:image/png;base64,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",
-        "eventName": "Rugby",
-        "event_logo": "data:image/png;base64,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",
-        "startTime": "18/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Ultimate Sevens: Biarritz",
-          "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1789839120~acl=*dash%2flive%2f2093742%2f219032-330910%2f*!*dash%2flive%2f2093742-b%2f219032-330910-b%2f*!%2fv1%2fdashsegment%2f*~id=97fe388c-ea5f-4c10-a654-30a5b6d7a7b1~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODk4MzkxNDMmZWlkPTIxOTAzMiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=774d631b89234ac7b519a4a26ab2be5692e1ab4d0e9bc9c998b702479ec7ee36/dash/live/2093742/219032-330910/manifest-d.mpd",
-          "drm_key": "a25dc89c70e94d098803c4d5b790c8a2:babf1ea53bb64cea97caf0675022e17f"
-        }
-      ],
-      "id": "evt_26609294c5d6"
     },
     {
       "status": "LIVE",
@@ -805,6 +319,11 @@
       },
       "streams": [
         {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4567269.m3u8?txSecret=581f23c5f5c8ce9cee4978de81eefa1b&txTime=6AADC92E",
+          "referer": "https://player.up909.com/"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/3324/index.m3u8"
         },
@@ -836,6 +355,11 @@
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         },
         {
+          "channel_name": "PEACOCK FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsee5iqeas/out/v1/58c2adc81b284e1d9557db388f19c56a/cenc.mpd",
+          "drm_key": "26f13bea77c8381d4bdd73839a93f0ab:d6927191c95565947375fe874efcbfb6"
+        },
+        {
           "channel_name": "SPORT TV FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -847,6 +371,16 @@
           "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
         },
         {
+          "channel_name": "BUNDESHLIGA + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56602/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "PEACOCK FHD2",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsee5iqeas/out/v1/58c2adc81b284e1d9557db388f19c56a/cenc.mpd",
+          "drm_key": "26f13bea77c8381d4bdd73839a93f0ab:d6927191c95565947375fe874efcbfb6"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/766/index.m3u8"
         },
@@ -855,6 +389,20 @@
           "stream_url": "https://edgestream5.pro/hls/ueyeztrazb4.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "FAST SERVER ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4566254.m3u8?txSecret=ac9a75e4a1b30ab92bc16ead64130259&txTime=6AADCAB9",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "HD STREAMING 2",
+          "stream_url": "https://edgestream6.pro/hls/ueyeztrazb4.m3u8?",
+          "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/9771736a-b031-4f77-99b1-5a4c1af18101.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -953,6 +501,11 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/txzyyowqxi/out/v1/832a51a9c2bd426b83c5ccbf37c6f283/c74078e5-3cc4-447e-afd4-9b6dc2626ceb-cenc.mpd?aws_sessionId=2f9c859c-07e2-4c87-b809-9ca9ed4b0a04",
+          "drm_key": "7625ccaef75a21b4e5a186d85ef534db:b3202a8a5fe459fcefb312ebd1c3922f"
+        },
+        {
           "channel_name": "BeIN1 SPORTSFHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
           "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
@@ -1004,6 +557,11 @@
         "startTime": "19/09/2026 12:45:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "beIN Multi Commentary",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sk1so7ogho/out/v1/27aac1f9df984d65a9d4b95d234f4468/c14894b5-b73f-4ee0-870f-173e70a575cb-cenc.mpd?aws_sessionId=30f6424d-6577-4994-9c59-0980e3f73009",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
         {
           "channel_name": "ESPN4 ARG FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
@@ -1059,10 +617,31 @@
           "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "D SPORTS + FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56604/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "CazéTV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "DAZN LALIGA",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/daznlaliga1.m3u8"
         },
         {
           "channel_name": "BEIN3 ARABIC HD ",
@@ -1071,10 +650,6 @@
         {
           "channel_name": "BEIN3 ARABIC FHD",
           "stream_url": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-3.m3u8"
-        },
-        {
-          "channel_name": "DAZN LALIGA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/daznlaliga1.m3u8"
         },
         {
           "channel_name": "SPANISH STREAMING",
@@ -1118,8 +693,18 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "CHAMPIONSHIP + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56606/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "SPORTS3 TV HD",
           "stream_url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8"
+        },
+        {
+          "channel_name": "PARAMOUNT+ HD",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4563589.m3u8?txSecret=b6aac15843da306d4ef7a429d450180b&txTime=6AADD093",
+          "referer": "https://player.up909.com/"
         },
         {
           "channel_name": "SKY FOOTBALL HD",
@@ -1166,6 +751,31 @@
       },
       "streams": [
         {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f"
+        },
+        {
+          "channel_name": "SKY SPORTS FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=OBUDyu5oI0oENn03wnDwig&e=2089756534&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?",
+          "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "USA NETWORK HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56605/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SKY8 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
+        },
+        {
           "channel_name": "ESPN1 ARG FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
           "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
@@ -1173,10 +783,6 @@
         {
           "channel_name": "SKY MAIN EVENT HD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8"
-        },
-        {
-          "channel_name": "SKY8 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
         },
         {
           "channel_name": "USA NETWROK HD",
@@ -1207,6 +813,22 @@
         }
       ],
       "id": "evt_5f2d1abee75c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Alianza Atlético de Sullana Vs Comerciantes Unidos",
+      "eventInfo": {
+        "teamA": "Alianza Atlético de Sullana",
+        "teamB": "Comerciantes Unidos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2307/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "19/09/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d9874e1f67d2"
     },
     {
       "status": "LIVE",
@@ -1298,13 +920,73 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "SKY NZ SELECT HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GAAAFAAQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_8dd83acd0245"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rionegro Águilas Doradas Vs Deportivo Pereira",
+      "eventInfo": {
+        "teamA": "Rionegro Águilas Doradas",
+        "teamB": "Deportivo Pereira",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "19/09/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_a4f17d5cd944"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Central Córdoba Vs Defensa y Justicia",
+      "eventInfo": {
+        "teamA": "Central Córdoba",
+        "teamB": "Defensa y Justicia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36839/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "19/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/32/index.m3u8"
+        }
+      ],
+      "id": "evt_c05cbf650d5e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Nacional Asunción Vs CS 2 de Mayo",
+      "eventInfo": {
+        "teamA": "Nacional Asunción",
+        "teamB": "CS 2 de Mayo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5992/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "19/09/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ff189ae4b471"
     },
     {
       "status": "UPCOMING",
@@ -1452,53 +1134,6 @@
         }
       ],
       "id": "evt_a21b10ab40cc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
-      "eventInfo": {
-        "teamA": "NASCAR CUP SERIES",
-        "teamB": "NASCAR CUP SERIES",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "eventName": "NASCAR",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "startTime": "19/09/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTS4 TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "NASCAR HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56591/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/ZGGGVVA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_64739719626b"
     },
     {
       "status": "UPCOMING",
@@ -1697,22 +1332,6 @@
         }
       ],
       "id": "evt_b3db62fcf30c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Rionegro Águilas Doradas Vs Deportivo Pereira",
-      "eventInfo": {
-        "teamA": "Rionegro Águilas Doradas",
-        "teamB": "Deportivo Pereira",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "19/09/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_a4f17d5cd944"
     },
     {
       "status": "UPCOMING",
@@ -2487,59 +2106,6 @@
       },
       "streams": [],
       "id": "evt_74fbcd3a617f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Alianza Atlético de Sullana Vs Comerciantes Unidos",
-      "eventInfo": {
-        "teamA": "Alianza Atlético de Sullana",
-        "teamB": "Comerciantes Unidos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2307/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "19/09/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d9874e1f67d2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Central Córdoba Vs Defensa y Justicia",
-      "eventInfo": {
-        "teamA": "Central Córdoba",
-        "teamB": "Defensa y Justicia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/65676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36839/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "19/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/32/index.m3u8"
-        }
-      ],
-      "id": "evt_c05cbf650d5e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Nacional Asunción Vs CS 2 de Mayo",
-      "eventInfo": {
-        "teamA": "Nacional Asunción",
-        "teamB": "CS 2 de Mayo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5992/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "19/09/2026 03:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ff189ae4b471"
     },
     {
       "status": "UPCOMING",
@@ -6570,6 +6136,29 @@
       "id": "evt_d9b5f5599975"
     },
     {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Fiji Vs Hong Kong",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "Hong Kong",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/448223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262236/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "19/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_4dbf46bf786b"
+    },
+    {
       "status": "ENDED",
       "Category": "Football",
       "event_name": "LIVE EVENTO Vs LIVE EVENTO",
@@ -6641,6 +6230,48 @@
         }
       ],
       "id": "evt_e4e534184d1e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
+      "eventInfo": {
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "18/09/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "One Fight FHD.",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "user_agent": "Mozilla/5.0",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "STREAM 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "STREAM 3",
+          "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+          "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.43/hls/GRRR.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_38747064c422"
     },
     {
       "status": "ENDED",
@@ -6871,6 +6502,36 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Widzew Łódź Vs Wieczysta Kraków",
+      "eventInfo": {
+        "teamA": "Widzew Łódź",
+        "teamB": "Wieczysta Kraków",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3115/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334956/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "18/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "beiN ES HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        },
+        {
+          "channel_name": "CANAL +",
+          "stream_url": "https://netanjahu.hls.st/t/8be6d4eba17638743a2c131b690195c5/index.m3u8",
+          "referer": "https://iplayer.is/"
+        }
+      ],
+      "id": "evt_cf91853fb09d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "UTA Arad Vs Sepsi OSK Sfântu Gheorghe",
       "eventInfo": {
         "teamA": "UTA Arad",
@@ -6893,6 +6554,220 @@
         }
       ],
       "id": "evt_4b82a631f8e6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kasımpaşa Vs Konyaspor",
+      "eventInfo": {
+        "teamA": "Kasımpaşa",
+        "teamB": "Konyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "18/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4581320.m3u8?txSecret=c045f82b6a8d6ed8066fb909eba97a3a&txTime=6AADB443",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "beIN1  TR HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+        },
+        {
+          "channel_name": "SPORTSNET WORLD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/sportsnetworld.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QQQQAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f9bb9cbb4e10"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Manchester City Vs Liverpool FC",
+      "eventInfo": {
+        "teamA": "Manchester City",
+        "teamB": "Liverpool FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "19/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qyoogkb3uh/out/v1/99830bbf389c48128285e8a348950c6d/9bb44c75-dc5e-484b-b0e4-7d59da71f040-cenc.mpd?aws_sessionId=ea382a5a-c952-4a5b-9364-96121880ee2b",
+          "drm_key": "9095148d760dde8e937b307a49f0e3ec:404329e2d7994817bf9f70d457757cfe"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "SKY7 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1243/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GAAAFAAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_467bf1d0089b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Rapid București Vs FC Argeș Pitești",
+      "eventInfo": {
+        "teamA": "FC Rapid București",
+        "teamB": "FC Argeș Pitești",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/295403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "19/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/8985/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GAAAFAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_0205e4cec183"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportivo Alavés Vs Fútbol Club Barcelona",
+      "eventInfo": {
+        "teamA": "Deportivo Alavés",
+        "teamB": "Fútbol Club Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/388473/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "19/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GAAAFAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN2 ES DH ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
+        }
+      ],
+      "id": "evt_fe39f3a87460"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "BC Dubai Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "BC Dubai",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/526165/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+        "eventName": "Euroleague SuperCup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
+        "startTime": "18/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT6 TV HD ",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QQQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "ARENA PREMIUM ",
+          "stream_url": "https://netanjahu.hls.st/t/57dc14ced591f68df91c715ab17fde10/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "POLSAT SPORTS",
+          "stream_url": "https://netanjahu.hls.st/t/cadad4eb141d1ef72b1c56e564a5464f/index.m3u8",
+          "referer": "https://iplayer.is/"
+        }
+      ],
+      "id": "evt_be3182f80c79"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Groningen Vs PEC Zwolle",
+      "eventInfo": {
+        "teamA": "FC Groningen",
+        "teamB": "PEC Zwolle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "19/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/5644/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GAAAFA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_87588c09d326"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Muğlaspor Vs Iğdır FK",
+      "eventInfo": {
+        "teamA": "Muğlaspor",
+        "teamB": "Iğdır FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7034/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/388264/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "18/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/3769/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QQQQAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_a006f2d71cd7"
     },
     {
       "status": "ENDED",
@@ -6943,6 +6818,104 @@
         }
       ],
       "id": "evt_1452f2d6e62f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Leeds Rhinos W Vs York Valkyrie W",
+      "eventInfo": {
+        "teamA": "Leeds Rhinos W",
+        "teamB": "York Valkyrie W",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+        "eventName": "English Rugby Super League",
+        "event_logo": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+        "startTime": "18/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/OOOO.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_edb0d23650bf"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "KK Crvena zvezda Vs Aris BC",
+      "eventInfo": {
+        "teamA": "KK Crvena zvezda",
+        "teamB": "Aris BC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3505/image",
+        "eventName": "ABA Liga Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36655/image/dark",
+        "startTime": "18/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f1f2d1260687"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Pafos FC Vs AEL Limassol",
+      "eventInfo": {
+        "teamA": "Pafos FC",
+        "teamB": "AEL Limassol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3407/image",
+        "eventName": "Cyprus League by Stoiximan",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/171/image/dark",
+        "startTime": "18/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/EAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/EAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f117ba77d115"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Ultimate Sevens: Biarritz Vs Ultimate Sevens: Biarritz",
+      "eventInfo": {
+        "teamA": "Ultimate Sevens: Biarritz",
+        "teamB": "Ultimate Sevens: Biarritz",
+        "teamAFlag": "data:image/png;base64,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",
+        "teamBFlag": "data:image/png;base64,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",
+        "eventName": "Rugby",
+        "event_logo": "data:image/png;base64,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",
+        "startTime": "18/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Ultimate Sevens: Biarritz",
+          "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1789839120~acl=*dash%2flive%2f2093742%2f219032-330910%2f*!*dash%2flive%2f2093742-b%2f219032-330910-b%2f*!%2fv1%2fdashsegment%2f*~id=97fe388c-ea5f-4c10-a654-30a5b6d7a7b1~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODk4MzkxNDMmZWlkPTIxOTAzMiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=774d631b89234ac7b519a4a26ab2be5692e1ab4d0e9bc9c998b702479ec7ee36/dash/live/2093742/219032-330910/manifest-d.mpd",
+          "drm_key": "a25dc89c70e94d098803c4d5b790c8a2:babf1ea53bb64cea97caf0675022e17f"
+        }
+      ],
+      "id": "evt_26609294c5d6"
     }
   ]
 }
