@@ -28,6 +28,53 @@ EVENT_TIME_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 
 
 # ============================================================
+# STATUS GROUPS
+# (LIVE / ENDED / UPCOMING শনাক্তকরণের সম্পূর্ণ তালিকা)
+# ============================================================
+
+LIVE_SOURCE_STATUSES = {
+    # ---------- Generic ----------
+    "LIVE", "INPLAY", "IN-PLAY", "IN PLAY", "ONGOING",
+    "STARTED", "PLAYING", "NOW PLAYING", "RUNNING",
+
+    # ---------- Football / Soccer ----------
+    "1H", "2H", "HT", "ET", "BT", "PEN", "PENALTIES",
+    "BREAK", "HALF TIME", "HALFTIME", "FIRST HALF",
+    "SECOND HALF", "EXTRA TIME", "PENALTY SHOOTOUT",
+    "INT", "SUSP", "SUSPENDED", "PAUSED",
+
+    # ---------- Basketball / American Football ----------
+    "Q1", "Q2", "Q3", "Q4", "OT", "OT1", "OT2",
+    "1Q", "2Q", "3Q", "4Q",
+
+    # ---------- Tennis / Badminton / Volleyball ----------
+    "SET1", "SET2", "SET3", "SET4", "SET5",
+    "1ST SET", "2ND SET", "3RD SET", "4TH SET", "5TH SET",
+    "1S", "2S", "3S", "4S", "5S",
+
+    # ---------- Cricket / Baseball ----------
+    "INN1", "INN2", "INNINGS", "1ST INN", "2ND INN",
+    "INN", "1IN", "2IN",
+
+    # ---------- Hockey / Others ----------
+    "P1", "P2", "P3",
+}
+
+ENDED_SOURCE_STATUSES = {
+    "ENDED", "END", "FT", "FINISHED", "FULL TIME", "FULLTIME",
+    "AET", "AFTER EXTRA TIME", "AP", "AFTER PENALTIES",
+    "COMPLETED", "COMPLETE", "ABANDONED", "ABAN",
+    "CANCELLED", "CANCELED", "CANC", "POSTPONED", "POSTP",
+    "DELAYED", "DEL", "AWD", "AWARDED", "WO", "WALKOVER",
+}
+
+UPCOMING_SOURCE_STATUSES = {
+    "UPCOMING", "SCHEDULED", "NOT STARTED", "NS",
+    "TBD", "PRE", "PRE-GAME", "PRE GAME",
+}
+
+
+# ============================================================
 # FETCH MAIN API
 # ============================================================
 
@@ -104,7 +151,7 @@ def generate_event_id(match):
         teamB
         eventName
 
-    যদি এগুলো খুব generic/empty হয়,
+    যদি এগুলো খুব generic/empty হয়,
     event_name + startTime fallback হিসেবে ব্যবহার হবে।
     """
 
@@ -368,6 +415,10 @@ def apply_status_override(
 
 # ============================================================
 # UPDATE MATCH STATUS
+# ------------------------------------------------------------
+# এখানেই মূল সংশোধন করা হয়েছে।
+# HT, 1H, 2H, ET, Q1-Q4, SET1-5, INN1-2 ইত্যাদি সব লাইভ
+# হিসেবে শনাক্ত হবে।
 # ============================================================
 
 def update_match_status(
@@ -395,12 +446,12 @@ def update_match_status(
     # 2. Source says ENDED
     # --------------------------------------------------------
 
-    if source_status == "ENDED":
+    if source_status in ENDED_SOURCE_STATUSES:
         match["status"] = "ENDED"
 
         print(
             f"[STATUS] {event_name} | "
-            f"Source=ENDED | "
+            f"Source={source_status} | "
             f"Final=ENDED"
         )
 
@@ -410,14 +461,7 @@ def update_match_status(
     # 3. Source says LIVE
     # --------------------------------------------------------
 
-    if source_status in {
-        "LIVE",
-        "INPLAY",
-        "IN-PLAY",
-        "ONGOING",
-        "STARTED",
-        "PLAYING"
-    }:
+    if source_status in LIVE_SOURCE_STATUSES:
         match["status"] = "LIVE"
 
         return "LIVE"
@@ -426,25 +470,28 @@ def update_match_status(
     # 4. Source says UPCOMING
     # --------------------------------------------------------
 
-    if source_status in {
-        "UPCOMING",
-        "SCHEDULED",
-        "NOT STARTED"
-    }:
+    if source_status in UPCOMING_SOURCE_STATUSES:
         match["status"] = "UPCOMING"
 
         return "UPCOMING"
 
     # --------------------------------------------------------
-    # 5. Unknown/empty source status
+    # 5. Unknown / empty source status
     #
     # IMPORTANT:
-    # startTime দিয়ে LIVE/ENDED নির্ধারণ করা হবে না।
+    # startTime দিয়ে LIVE/ENDED নির্ধারণ করা হবে না।
+    #
+    # অজানা স্ট্যাটাস এলে UPCOMING হিসেবে ধরা হবে,
+    # এবং কনসোলে লগ প্রিন্ট হবে যাতে ভবিষ্যতে নতুন
+    # স্ট্যাটাস যোগ করা যায়।
     # --------------------------------------------------------
 
     if source_status:
-        match["status"] = source_status
-        return source_status
+        print(
+            f"[UNKNOWN STATUS] {event_name} | "
+            f"Source={source_status} | "
+            f"Defaulting to UPCOMING"
+        )
 
     match["status"] = "UPCOMING"
 
@@ -774,6 +821,7 @@ def add_manual_streams(
 
     return added_count
 
+
 # ============================================================
 # REMOVE EMPTY STREAM URLs
 # ============================================================
@@ -1006,6 +1054,18 @@ def main():
         )
 
         # ----------------------------------------------------
+        # SOURCE STATUS SUMMARY (DEBUG)
+        # সোর্সে কী কী স্ট্যাটাস আছে তা দেখতে
+        # ----------------------------------------------------
+
+        statuses = {}
+        for m in matches:
+            if isinstance(m, dict):
+                s = get_source_status(m)
+                statuses[s] = statuses.get(s, 0) + 1
+        print("Source statuses:", statuses)
+
+        # ----------------------------------------------------
         # AUTO GENERATE EVENT IDS
         # ----------------------------------------------------
 
@@ -1059,7 +1119,6 @@ def main():
             )
         )
 
-
         # ----------------------------------------------------
         # ADD NEW EVENTS
         # ----------------------------------------------------
@@ -1070,7 +1129,6 @@ def main():
                 manual_control
             )
         )
-
 
         # ----------------------------------------------------
         # REMOVE EMPTY STREAM URLs
