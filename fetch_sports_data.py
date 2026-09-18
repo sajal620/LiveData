@@ -407,82 +407,48 @@ def update_match_status(
         return "ENDED"
 
     # --------------------------------------------------------
-    # 3. Parse event start time
+    # 3. Source says LIVE
     # --------------------------------------------------------
 
-    start_time = parse_event_start_time(match)
+    if source_status in {
+        "LIVE",
+        "INPLAY",
+        "IN-PLAY",
+        "ONGOING",
+        "STARTED",
+        "PLAYING"
+    }:
+        match["status"] = "LIVE"
+
+        return "LIVE"
 
     # --------------------------------------------------------
-    # 4. No start time
+    # 4. Source says UPCOMING
     # --------------------------------------------------------
 
-    if start_time is None:
-
-        if source_status in {
-            "LIVE",
-            "INPLAY",
-            "IN-PLAY",
-            "ONGOING",
-            "STARTED",
-            "PLAYING"
-        }:
-            match["status"] = "LIVE"
-            return "LIVE"
-
-        if source_status in {
-            "UPCOMING",
-            "SCHEDULED",
-            "NOT STARTED"
-        }:
-            match["status"] = "UPCOMING"
-            return "UPCOMING"
-
-        match["status"] = (
-            source_status or "UPCOMING"
-        )
-
-        return match["status"]
-
-    # --------------------------------------------------------
-    # 5. Previous calendar date = ENDED
-    # --------------------------------------------------------
-
-    if now_bd.date() > start_time.date():
-        match["status"] = "ENDED"
-
-        print(
-            f"[STATUS] {event_name} | "
-            f"Start={start_time.strftime('%d/%m/%Y %I:%M:%S %p')} | "
-            f"Final=ENDED"
-        )
-
-        return "ENDED"
-
-    # --------------------------------------------------------
-    # 6. Future date = UPCOMING
-    # --------------------------------------------------------
-
-    if now_bd.date() < start_time.date():
+    if source_status in {
+        "UPCOMING",
+        "SCHEDULED",
+        "NOT STARTED"
+    }:
         match["status"] = "UPCOMING"
 
         return "UPCOMING"
 
     # --------------------------------------------------------
-    # 7. Same date but before start
+    # 5. Unknown/empty source status
+    #
+    # IMPORTANT:
+    # startTime দিয়ে LIVE/ENDED নির্ধারণ করা হবে না।
     # --------------------------------------------------------
 
-    if now_bd < start_time:
-        match["status"] = "UPCOMING"
+    if source_status:
+        match["status"] = source_status
+        return source_status
 
-        return "UPCOMING"
+    match["status"] = "UPCOMING"
 
-    # --------------------------------------------------------
-    # 8. Same date and start time reached = LIVE
-    # --------------------------------------------------------
-
-    match["status"] = "LIVE"
-
-    return "LIVE"
+    return "UPCOMING"
 
 
 # ============================================================
@@ -520,6 +486,38 @@ def update_all_match_statuses(
         upcoming_count,
         ended_count
     )
+
+
+# ============================================================
+# SORT EVENTS
+# LIVE = FIRST
+# UPCOMING = MIDDLE
+# ENDED = LAST
+# ============================================================
+
+def sort_matches_by_status(matches):
+    status_order = {
+        "LIVE": 0,
+        "UPCOMING": 1,
+        "ENDED": 2
+    }
+
+    def sort_key(match):
+        if not isinstance(match, dict):
+            return 1
+
+        status = str(
+            match.get("status", "")
+        ).strip().upper()
+
+        return status_order.get(
+            status,
+            1
+        )
+
+    matches.sort(key=sort_key)
+
+    return matches
 
 
 # ============================================================
@@ -1101,6 +1099,13 @@ def main():
             now_bd,
             manual_control
         )
+
+        # ----------------------------------------------------
+        # SORT EVENTS
+        # LIVE FIRST -> UPCOMING -> ENDED LAST
+        # ----------------------------------------------------
+
+        sort_matches_by_status(matches)
 
         # ----------------------------------------------------
         # DRM CONVERSION
