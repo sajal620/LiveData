@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:16:30 PM 19-09-2026",
-  "total_matches": 245,
-  "live_match": 14,
+  "last_update_time": "07:06:35 PM 19-09-2026",
+  "total_matches": 247,
+  "live_match": 69,
   "matches": [
     {
       "status": "LIVE",
@@ -102,47 +102,39 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Hawthorn Hawks Vs Brisbane Lions",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
       "eventInfo": {
-        "teamA": "Hawthorn Hawks",
-        "teamB": "Brisbane Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4445/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-        "eventName": "AFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-        "startTime": "19/09/2026 01:15:00 PM"
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "19/09/2026 05:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "channel_name": "SKY3 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
         },
         {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/fsss.m3u8?",
+          "channel_name": "World Series Finals",
+          "stream_url": "http://193.47.62.52/hls/FYYYQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "ITV 4 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
+        },
+        {
+          "channel_name": "ITV SPORTS HD 4",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/itv4.m3u8"
         }
       ],
-      "id": "evt_7d87901f0fa0"
+      "id": "evt_bc2beb8eb4e5"
     },
     {
       "status": "LIVE",
@@ -169,76 +161,879 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Cronulla Sharks",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Women Vs South Africa Women",
       "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Cronulla Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "19/09/2026 03:50:00 PM"
+        "teamA": "Zimbabwe Women",
+        "teamB": "South Africa Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+        "eventName": "Twenty20 International Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/frfrfrA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
-      "id": "evt_fc8826010a52"
+      "id": "evt_0088a4f78d51"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FC Badalona Vs Real Sociedad",
+      "event_name": "Osasuna Vs Rayo Vallecano",
       "eventInfo": {
-        "teamA": "FC Badalona",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "19/09/2026 04:00:00 PM"
+        "teamA": "Osasuna",
+        "teamB": "Rayo Vallecano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56645/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/eeeeffff.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "D SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "CazéTV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "ARABIC 2",
+          "stream_url": "n"
+        }
+      ],
+      "id": "evt_57dc0cd2a959"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Sociedad B Vs Mallorca",
+      "eventInfo": {
+        "teamA": "Real Sociedad B",
+        "teamB": "Mallorca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/MMMM.m3u8?",
+          "stream_url": "http://193.47.62.44/hls/eeeefff.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "DAZN2 ES HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
         }
       ],
-      "id": "evt_ede69f876e07"
+      "id": "evt_7d4526c177c0"
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Wellington Lions Vs Northland",
+      "Category": "Football",
+      "event_name": "Tottenham Hotspur Vs Aston Villa",
       "eventInfo": {
-        "teamA": "Wellington Lions",
-        "teamB": "Northland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42716/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "19/09/2026 01:10:00 PM"
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Aston Villa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+          "drm_key": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc"
+        },
+        {
+          "channel_name": "USA NETWORK HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56644/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "FASTER HD ",
+          "stream_url": "https://live.uu6611.com/live/hd-en-1-4558577.m3u8?txSecret=f89a29eeacc36d35595fa4dd5064f612&txTime=6AAEB4A8",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/a3ba03a3-7a85-426e-825c-ec65ca4efebb.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/aqaqaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_735542595251"
+      "id": "evt_657f89c6d41e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Udinese Vs Cagliari",
+      "eventInfo": {
+        "teamA": "Udinese",
+        "teamB": "Cagliari",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+        "eventName": "Serie A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56647/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://live.uu6611.com/live/hd-en-1-4549076.m3u8?txSecret=8bfc56b595dcd42e0bc507e831b10c3d&txTime=6AAECBC8",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2768/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYYAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN IT + HD2",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8"
+        }
+      ],
+      "id": "evt_6682e77ef4c1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bologna Vs Torino",
+      "eventInfo": {
+        "teamA": "Bologna",
+        "teamB": "Torino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+        "eventName": "Serie A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "PARAMOUNT+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56646/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "ESPN1 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYYAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN IT + HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
+        },
+        {
+          "channel_name": "SPORTS4 TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
+        }
+      ],
+      "id": "evt_68cdba870d84"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Holstein Kiel Vs VfL Osnabrück",
+      "eventInfo": {
+        "teamA": "Holstein Kiel",
+        "teamB": "VfL Osnabrück",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4566582.m3u8?txSecret=581c26972fdb9df47603065cd126c3a6&txTime=6AAEB040",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        },
+        {
+          "channel_name": "SKY5 BUNDESLIGA HD ",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ciciciAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_edb41e3c5862"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "1. FC Kaiserslautern Vs Eintracht Braunschweig",
+      "eventInfo": {
+        "teamA": "1. FC Kaiserslautern",
+        "teamB": "Eintracht Braunschweig",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4566613.m3u8?txSecret=f4a83416fe59e00c28c73ab026a40153&txTime=6AAEB007",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
+        },
+        {
+          "channel_name": "Sky4 Bundesliga HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/zezeze.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_0f942bcbe5da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Karlsruher SC Vs 1. FC Nürnberg",
+      "eventInfo": {
+        "teamA": "Karlsruher SC",
+        "teamB": "1. FC Nürnberg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4566542.m3u8?txSecret=6f0e67bc88a0994e42039de1be06f44a&txTime=6AAEB028",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
+        },
+        {
+          "channel_name": "SKY3 BUNDESLIGA HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/zezezea.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_48612af77894"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Bayern München Vs 1. FC Köln",
+      "eventInfo": {
+        "teamA": "FC Bayern München",
+        "teamB": "1. FC Köln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229794/image",
+        "eventName": "Frauen-Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/llllAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN1 DE HD..",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
+        },
+        {
+          "channel_name": "DAZN2 DE HD..",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
+        }
+      ],
+      "id": "evt_6bbdf575f84c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Stoke City Vs Sheffield United",
+      "eventInfo": {
+        "teamA": "Stoke City",
+        "teamB": "Sheffield United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4563595.m3u8?txSecret=ec39a15b6cba70446bba32219940c1ee&txTime=6AAEB3E9",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaqqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD TV 4",
+          "stream_url": "https://www.rtmpcdn.com/live/7437927c-18ba-4dea-a869-5edbf5310299.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_0c3e952e9ef8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cardiff City Vs Charlton Athletic",
+      "eventInfo": {
+        "teamA": "Cardiff City",
+        "teamB": "Charlton Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4563597.m3u8?txSecret=88c792ddfa01a9fbeba4d201f79487eb&txTime=6AAEB39C",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/396c10ca-fc0c-4d08-9d91-f7e43136790c.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_62fbe92d2d71"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Millwall Vs West Ham United",
+      "eventInfo": {
+        "teamA": "Millwall",
+        "teamB": "West Ham United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jbgjfilftz/out/v1/9884c0b2c42845c4acd9b5f4db91bcbf/59e1fec0-7efc-4d89-99e8-09b08410751e-cenc.mpd?aws_sessionId=3c6cf4e8-ded9-404d-b83c-2a5b5a28f2df",
+          "drm_key": "6c64eda57db4a96b8625716cdc5bdbfe:78ec909055d5f856eedc7249fd243afa"
+        },
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SKY FOOTBALL HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2489/index.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1865/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_261d9760cbe7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barnsley Vs Leicester City",
+      "eventInfo": {
+        "teamA": "Barnsley",
+        "teamB": "Leicester City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rghixb0ndv/out/v1/3cecc2de2aa6453d93e47b01242d075a/3c5260ad-d9bc-41ba-bd80-4599765f14f0-cenc.mpd?aws_sessionId=f9bb5c34-acca-44ef-bc61-7d5a853b89f9",
+          "drm_key": "4ac062bfbd63d0bb24f09e6b4add1060:77c7fd46592bfa5cbe32dbd4ee58735a"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2346/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_e1c5864681a2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Burton Albion Vs Mansfield Town",
+      "eventInfo": {
+        "teamA": "Burton Albion",
+        "teamB": "Mansfield Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/70/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_747bc03d2a36"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Richards Bay FC Vs Sekhukhune United",
+      "eventInfo": {
+        "teamA": "Richards Bay FC",
+        "teamB": "Sekhukhune United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/263079/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371341/image",
+        "eventName": "South African Premier Division",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d5f40d8a2cc1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Charlton Athletic WFC Vs London City Lionesses",
+      "eventInfo": {
+        "teamA": "Charlton Athletic WFC",
+        "teamB": "London City Lionesses",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/326573/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zmbpqkba36/out/v1/cd1a28bf8047466d95c06f3ed6ce35ba/7330bcb7-40b6-4713-9ff2-9ad8c1e1f26b-cenc.mpd?aws_sessionId=c8f5c58b-fce2-438c-8f4b-05182a65953f",
+          "drm_key": "734ee0c157b381b1416ddf28827f0eaa:845ded3c2f67679535b71490cb00ead3"
+        },
+        {
+          "channel_name": "TV HD QUALITY ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4603688.m3u8?txSecret=bbdf754dce36fa010ac1758b43bf3549&txTime=6AAEB44B",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "BBC TWO FHD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8"
+        },
+        {
+          "channel_name": "SKY7 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2122/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_6e2c1921f995"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chelsea FC Vs Birmingham City W.F.C.",
+      "eventInfo": {
+        "teamA": "Chelsea FC",
+        "teamB": "Birmingham City W.F.C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "19/09/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/s4trdzhkcz/out/v1/7ef41b9c2dd944eda9877d055e7b5fda/d7a9ab23-8ad3-40d2-9ae3-09639f6130f6-cenc.mpd?aws_sessionId=4d6f5d1d-6172-426c-a8a3-3300fbf7a5dc",
+          "drm_key": "946d1999e931cecd08d3847a0892d0d8:ccf218d25ca9b04c9e8d229b7d01ca71"
+        },
+        {
+          "channel_name": "FASTER HD ",
+          "stream_url": "https://live.uu6611.com/live/sd-1-4603689.m3u8?txSecret=7e9a8cfd29f98ddbdd7637377e2b81e0&txTime=6AAEB480",
+          "referer": "https://player.up909.com/"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2233/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaaaqqqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "PREMIER LEAGUE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
+        },
+        {
+          "channel_name": "SKY9 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        }
+      ],
+      "id": "evt_6f31dfc5bb2b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mamelodi Sundowns Vs Al-Ahli",
+      "eventInfo": {
+        "teamA": "Mamelodi Sundowns",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "FIFA Intercontinental Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SporTV BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/MPMPMP.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN PPV TV",
+          "stream_url": "https://www.rtmpcdn.com/live/f8d8c322-8bed-450e-8077-3b7a7a32628a.m3u8"
+        }
+      ],
+      "id": "evt_99df2b7ac7fa"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Västerås SK Vs Malmö FF",
+      "eventInfo": {
+        "teamA": "Västerås SK",
+        "teamB": "Malmö FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1775/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1892/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYYAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_80a9a159d9af"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "IF Brommapojkarna Vs IFK Göteborg",
+      "eventInfo": {
+        "teamA": "IF Brommapojkarna",
+        "teamB": "IFK Göteborg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1787/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1761/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYYAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_1523d8748ae6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Korea U20 Vs Italy U20",
+      "eventInfo": {
+        "teamA": "South Korea U20",
+        "teamB": "Italy U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43217/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/71900/image",
+        "eventName": "U-20 Women's World Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EDUUU.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_d614fe81960c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Palermo Vs Padova",
+      "eventInfo": {
+        "teamA": "Palermo",
+        "teamB": "Padova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
+        "eventName": "Serie B",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYYA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_841df1ebf1b8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Carrarese Vs Benevento",
+      "eventInfo": {
+        "teamA": "Carrarese",
+        "teamB": "Benevento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2745/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
+        "eventName": "Serie B",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/EDUUUAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EDUUUAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_ea59efdd7d64"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cremonese Vs Virtus Entella",
+      "eventInfo": {
+        "teamA": "Cremonese",
+        "teamB": "Virtus Entella",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+        "eventName": "Serie B",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "19/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/DYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_2a4c21bdc85d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "MKS Korona Kielce Vs Raków Częstochowa",
+      "eventInfo": {
+        "teamA": "MKS Korona Kielce",
+        "teamB": "Raków Częstochowa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5065/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "19/09/2026 06:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/eeeeffffff.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "beiN ES HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        }
+      ],
+      "id": "evt_c4678810d770"
     },
     {
       "status": "LIVE",
@@ -304,77 +1099,242 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
+      "Category": "Football",
+      "event_name": "Walsall Vs Port Vale",
       "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "Walsall",
+        "teamB": "Port Vale",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
+        "eventName": "League Two",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "19/09/2026 05:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SKY3 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bvlv38lc5i/out/v1/cd7bcd48adf944528552465106704cba/7d203847-f306-4143-a7a4-6e05faf35592-cenc.mpd?aws_sessionId=839c97b1-b6a1-4999-a9b1-ed86a10557da",
+          "drm_key": "0974eb650a63f9924c6d5cab933845d9:ae464cf732017e768ad870552efdf540"
         },
         {
-          "channel_name": "World Series Finals",
-          "stream_url": "http://193.47.62.52/hls/FYYYQQQ.m3u8?",
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/grrraaaa.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "ITV 4 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
-        },
-        {
-          "channel_name": "ITV SPORTS HD 4",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/itv4.m3u8"
         }
       ],
-      "id": "evt_bc2beb8eb4e5"
+      "id": "evt_98153bc0caf7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "EUROPEAN T20 Vs Premier League T20",
+      "eventInfo": {
+        "teamA": "EUROPEAN T20",
+        "teamB": "Premier League T20",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "eventName": "EUROPEAN T20 Premier League",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+        "startTime": "19/09/2026 07:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd",
+          "drm_key": "b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1"
+        },
+        {
+          "channel_name": "WILLOW CRICBUZZ",
+          "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789708648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a0872a42eb1449d7c4ba465212d5c528",
+          "referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "channel_name": "Willow Cricbuzz - HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_5e1d80eec1a6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "England Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "T20 International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "19/09/2026 07:20:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd",
+          "drm_key": "cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327"
+        },
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "SKY5 SPORT NZ",
+          "stream_url": "https://baila-lentoo.pages.dev/nwp/809396.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JYYYAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_eca05b6b3e19"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Holstein Kiel Vs VfL Osnabrück",
+      "event_name": "Everton Vs Ipswich Town",
       "eventInfo": {
-        "teamA": "Holstein Kiel",
-        "teamB": "VfL Osnabrück",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "Everton",
+        "teamB": "Ipswich Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SKY9 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        },
         {
           "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1634/index.m3u8"
         },
         {
-          "channel_name": "SKY5 BUNDESLIGA HD ",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+          "channel_name": "SKY9 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        },
+        {
+          "channel_name": "BEIN5 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8"
+        },
+        {
+          "channel_name": "beIN5 ARABIC FHD",
+          "stream_url": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-5.m3u8"
         }
       ],
-      "id": "evt_edb41e3c5862"
+      "id": "evt_55a435631401"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "1. FC Kaiserslautern Vs Eintracht Braunschweig",
+      "event_name": "Newcastle United Vs Hull City",
       "eventInfo": {
-        "teamA": "1. FC Kaiserslautern",
-        "teamB": "Eintracht Braunschweig",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "Newcastle United",
+        "teamB": "Hull City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1749/index.m3u8"
+        },
+        {
+          "channel_name": "SKY7 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
+        },
+        {
+          "channel_name": "BEIN6 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein6ar.m3u8"
+        }
+      ],
+      "id": "evt_56611b4fa2b3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brighton & Hove Albion Vs Arsenal",
+      "eventInfo": {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "Arsenal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN1 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1503/index.m3u8"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
+        },
+        {
+          "channel_name": "SKY8 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
+        },
+        {
+          "channel_name": "DAZN1 ES HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8"
+        },
+        {
+          "channel_name": "beIN1 ARABIC FHD",
+          "stream_url": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-1.m3u8"
+        },
+        {
+          "channel_name": "BEIN1 ARABIC HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8"
+        }
+      ],
+      "id": "evt_dc535d04c243"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SV Werder Bremen Vs FC Augsburg",
+      "eventInfo": {
+        "teamA": "SV Werder Bremen",
+        "teamB": "FC Augsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "19/09/2026 07:30:00 PM"
       },
       "streams": [
         {
@@ -382,24 +1342,29 @@
           "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JYYYAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "Sky4 Bundesliga HD",
           "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
         }
       ],
-      "id": "evt_0f942bcbe5da"
+      "id": "evt_5b1c90940e42"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Karlsruher SC Vs 1. FC Nürnberg",
+      "event_name": "Eintracht Frankfurt Vs SC Freiburg",
       "eventInfo": {
-        "teamA": "Karlsruher SC",
-        "teamB": "1. FC Nürnberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "Eintracht Frankfurt",
+        "teamB": "SC Freiburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "19/09/2026 07:30:00 PM"
       },
       "streams": [
         {
@@ -407,33 +1372,739 @@
           "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JYYYA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "SKY3 BUNDESLIGA HD",
           "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/c0da8618-c2f3-44df-a0ef-9b48eaebd454.m3u8"
         }
       ],
-      "id": "evt_48612af77894"
+      "id": "evt_81b88eb047bb"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Real Madrid U19 Vs Santiago Wanderers U20",
+      "event_name": "Hamburger SV Vs 1. FC Köln",
       "eventInfo": {
-        "teamA": "Real Madrid U19",
-        "teamB": "Santiago Wanderers U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/120854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/518162/image",
-        "eventName": "U20 Intercontinental Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21049/image/dark",
-        "startTime": "19/09/2026 04:30:00 PM"
+        "teamA": "Hamburger SV",
+        "teamB": "1. FC Köln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "19/09/2026 07:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT3 SPORTS FHD",
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/7aa989a8-50ad-4ebb-8b8d-d6c3ca421b8c.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JYYYAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SKY BUNDESLIGA HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga1.m3u8"
+        }
+      ],
+      "id": "evt_f7226e2923fd"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Borussia M'gladbach Vs 1. FSV Mainz 05",
+      "eventInfo": {
+        "teamA": "Borussia M'gladbach",
+        "teamB": "1. FSV Mainz 05",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "19/09/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1476/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/0fa858ca-10b7-498e-b4dc-c8a3881fbf25.m3u8"
+        },
+        {
+          "channel_name": "SKY2 BUNDESLIGA HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga2.m3u8"
+        }
+      ],
+      "id": "evt_af75fcfd9790"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kocaelispor Vs Gaziantep FK",
+      "eventInfo": {
+        "teamA": "Kocaelispor",
+        "teamB": "Gaziantep FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN2  TR HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
+        },
+        {
+          "channel_name": "BEIN SPORTS USA",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2987/index.m3u8"
+        }
+      ],
+      "id": "evt_1dd59262335f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Çorum FK Vs Alanyaspor",
+      "eventInfo": {
+        "teamA": "Çorum FK",
+        "teamB": "Alanyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN SPORTS USA",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2817/index.m3u8"
+        },
+        {
+          "channel_name": "beIN1  TR HD..",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+        }
+      ],
+      "id": "evt_9ca24f5fb18e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Birmingham City Vs Middlesbrough",
+      "eventInfo": {
+        "teamA": "Birmingham City",
+        "teamB": "Middlesbrough",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2010/index.m3u8"
+        }
+      ],
+      "id": "evt_16384b7d80ca"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Burnley Vs Derby County",
+      "eventInfo": {
+        "teamA": "Burnley",
+        "teamB": "Derby County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1910/index.m3u8"
+        }
+      ],
+      "id": "evt_b2a2fc3498e0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Queens Park Rangers Vs Preston North End",
+      "eventInfo": {
+        "teamA": "Queens Park Rangers",
+        "teamB": "Preston North End",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_37eaeff95a22"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wrexham Vs Southampton",
+      "eventInfo": {
+        "teamA": "Wrexham",
+        "teamB": "Southampton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1865/index.m3u8"
+        }
+      ],
+      "id": "evt_824cf3e98d22"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Portsmouth Vs Blackburn Rovers",
+      "eventInfo": {
+        "teamA": "Portsmouth",
+        "teamB": "Blackburn Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_4e5dbfdd7c61"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lincoln City Vs Swansea City",
+      "eventInfo": {
+        "teamA": "Lincoln City",
+        "teamB": "Swansea City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
+        "eventName": "Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_43026f5fa7ff"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bromley Vs Huddersfield Town",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Huddersfield Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/59/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_9cba9ccd2e4e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Blackpool Vs Plymouth Argyle",
+      "eventInfo": {
+        "teamA": "Blackpool",
+        "teamB": "Plymouth Argyle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/67/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_47c3ff442092"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leyton Orient Vs Stevenage",
+      "eventInfo": {
+        "teamA": "Leyton Orient",
+        "teamB": "Stevenage",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/83/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f579a2617f75"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Luton Town Vs Bradford City",
+      "eventInfo": {
+        "teamA": "Luton Town",
+        "teamB": "Bradford City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_45bacf4761bb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Reading Vs Notts County",
+      "eventInfo": {
+        "teamA": "Reading",
+        "teamB": "Notts County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_647f572e8dc5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sheffield Wednesday Vs Stockport County",
+      "eventInfo": {
+        "teamA": "Sheffield Wednesday",
+        "teamB": "Stockport County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_9886f47c1f71"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Oxford United Vs Cambridge United",
+      "eventInfo": {
+        "teamA": "Oxford United",
+        "teamB": "Cambridge United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_fd5d8c68d044"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Peterborough United Vs Doncaster Rovers",
+      "eventInfo": {
+        "teamA": "Peterborough United",
+        "teamB": "Doncaster Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/84/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_9a0ed232e187"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wigan Athletic Vs Wycombe Wanderers",
+      "eventInfo": {
+        "teamA": "Wigan Athletic",
+        "teamB": "Wycombe Wanderers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "eventName": "League One",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f7772261ccd3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "St. Johnstone Vs Falkirk FC",
+      "eventInfo": {
+        "teamA": "St. Johnstone",
+        "teamB": "Falkirk FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2348/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8fa9bcfcedd9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dundee FC Vs Motherwell",
+      "eventInfo": {
+        "teamA": "Dundee FC",
+        "teamB": "Motherwell",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8578e5b77d98"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hibernian Vs Aberdeen",
+      "eventInfo": {
+        "teamA": "Hibernian",
+        "teamB": "Aberdeen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_30a09754832f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "St. Mirren Vs Dundee United",
+      "eventInfo": {
+        "teamA": "St. Mirren",
+        "teamB": "Dundee United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2349/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_917d95f9645e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs Madrid CFF",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "Madrid CFF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN2 ES HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
+        }
+      ],
+      "id": "evt_5ff7fdaeaa68"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "England Vs Canada",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Canada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164602/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/164600/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ],
+      "id": "evt_c50de5478128"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Rolex SailGP Champ Vs Switzerland SailGP",
+      "eventInfo": {
+        "teamA": "Rolex SailGP Champ",
+        "teamB": "Switzerland SailGP",
+        "teamAFlag": "b",
+        "teamBFlag": "b",
+        "eventName": "⛵Rolex SailGP Championship | Switzerland SailGP",
+        "event_logo": "v",
+        "startTime": "19/09/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         }
       ],
-      "id": "evt_79924bb1b22d"
+      "id": "evt_e9435914c9a1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bundesliga Vs SIMULACAST",
+      "eventInfo": {
+        "teamA": "Bundesliga",
+        "teamB": "SIMULACAST",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "19/09/2026 07:25:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN1 DE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
+        }
+      ],
+      "id": "evt_e5fae4a17366"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Premier League Vs Premier League",
+      "eventInfo": {
+        "teamA": "Premier League",
+        "teamB": "Premier League",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "eventName": "Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "19/09/2026 07:55:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY8 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
+        },
+        {
+          "channel_name": "PREMIER LEAGUE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        }
+      ],
+      "id": "evt_6994f793b958"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Fenerbahçe Tarfin Vs BC Dubai",
+      "eventInfo": {
+        "teamA": "Fenerbahçe Tarfin",
+        "teamB": "BC Dubai",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/526165/image",
+        "eventName": "Euroleague SuperCup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
+        "startTime": "19/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_58867a648a6b"
     },
     {
       "status": "UPCOMING",
@@ -715,47 +2386,6 @@
         }
       ],
       "id": "evt_a6cb316545df"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "EUROPEAN T20 Vs Premier League T20",
-      "eventInfo": {
-        "teamA": "EUROPEAN T20",
-        "teamB": "Premier League T20",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "eventName": "EUROPEAN T20 Premier League",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-        "startTime": "19/09/2026 07:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "WILLOW CRICBUZZ",
-          "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789708648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a0872a42eb1449d7c4ba465212d5c528",
-          "referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "channel_name": "Willow Cricbuzz - HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_5e1d80eec1a6"
     },
     {
       "status": "UPCOMING",
@@ -1063,27 +2693,6 @@
         }
       ],
       "id": "evt_9c0f94c6735d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Cardiff Rugby Vs Exeter Chiefs",
-      "eventInfo": {
-        "teamA": "Cardiff Rugby",
-        "teamB": "Exeter Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/43335/image",
-        "eventName": "International Club Friendlies",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24076/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_38ad778c6232"
     },
     {
       "status": "UPCOMING",
@@ -1465,59 +3074,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Zimbabwe Women Vs South Africa Women",
-      "eventInfo": {
-        "teamA": "Zimbabwe Women",
-        "teamB": "South Africa Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
-        "eventName": "Twenty20 International Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_0088a4f78d51"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "England Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "T20 International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd",
-          "drm_key": "cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327"
-        },
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "SKY5 SPORT NZ",
-          "stream_url": "https://baila-lentoo.pages.dev/nwp/809396.m3u8"
-        }
-      ],
-      "id": "evt_eca05b6b3e19"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Japan Vs India",
       "eventInfo": {
         "teamA": "Japan",
@@ -1536,49 +3092,6 @@
         }
       ],
       "id": "evt_9f27752ecb55"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Osasuna Vs Rayo Vallecano",
-      "eventInfo": {
-        "teamA": "Osasuna",
-        "teamB": "Rayo Vallecano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "D SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "ARABIC 2",
-          "stream_url": "n"
-        }
-      ],
-      "id": "evt_57dc0cd2a959"
     },
     {
       "status": "UPCOMING",
@@ -1697,22 +3210,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Real Sociedad B Vs Mallorca",
-      "eventInfo": {
-        "teamA": "Real Sociedad B",
-        "teamB": "Mallorca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_7d4526c177c0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "FC Andorra Vs Sporting Gijón",
       "eventInfo": {
         "teamA": "FC Andorra",
@@ -1777,77 +3274,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Everton Vs Ipswich Town",
-      "eventInfo": {
-        "teamA": "Everton",
-        "teamB": "Ipswich Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY9 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1634/index.m3u8"
-        },
-        {
-          "channel_name": "SKY9 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
-        },
-        {
-          "channel_name": "BEIN5 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8"
-        },
-        {
-          "channel_name": "beIN5 ARABIC FHD",
-          "stream_url": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-5.m3u8"
-        }
-      ],
-      "id": "evt_55a435631401"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Newcastle United Vs Hull City",
-      "eventInfo": {
-        "teamA": "Newcastle United",
-        "teamB": "Hull City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1749/index.m3u8"
-        },
-        {
-          "channel_name": "SKY7 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
-        },
-        {
-          "channel_name": "BEIN6 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein6ar.m3u8"
-        }
-      ],
-      "id": "evt_56611b4fa2b3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Nottingham Forest Vs Coventry City",
       "eventInfo": {
         "teamA": "Nottingham Forest",
@@ -1891,39 +3317,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Tottenham Hotspur Vs Aston Villa",
-      "eventInfo": {
-        "teamA": "Tottenham Hotspur",
-        "teamB": "Aston Villa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FUBO SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
-          "drm_key": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
-        }
-      ],
-      "id": "evt_657f89c6d41e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Pacific FC Vs Vancouver FC",
       "eventInfo": {
         "teamA": "Pacific FC",
@@ -1962,77 +3355,6 @@
         }
       ],
       "id": "evt_57914f34a406"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brighton & Hove Albion Vs Arsenal",
-      "eventInfo": {
-        "teamA": "Brighton & Hove Albion",
-        "teamB": "Arsenal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN1 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1503/index.m3u8"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
-        },
-        {
-          "channel_name": "SKY8 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
-        },
-        {
-          "channel_name": "DAZN1 ES HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8"
-        },
-        {
-          "channel_name": "beIN1 ARABIC FHD",
-          "stream_url": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-1.m3u8"
-        },
-        {
-          "channel_name": "BEIN1 ARABIC HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8"
-        }
-      ],
-      "id": "evt_dc535d04c243"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Udinese Vs Cagliari",
-      "eventInfo": {
-        "teamA": "Udinese",
-        "teamB": "Cagliari",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-        "eventName": "Serie A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN IT + HD2",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2768/index.m3u8"
-        }
-      ],
-      "id": "evt_6682e77ef4c1"
     },
     {
       "status": "UPCOMING",
@@ -2096,117 +3418,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Bologna Vs Torino",
-      "eventInfo": {
-        "teamA": "Bologna",
-        "teamB": "Torino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-        "eventName": "Serie A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "ESPN1 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
-        },
-        {
-          "channel_name": "DAZN IT + HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8"
-        },
-        {
-          "channel_name": "SPORTS4 TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
-        }
-      ],
-      "id": "evt_68cdba870d84"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "SV Werder Bremen Vs FC Augsburg",
-      "eventInfo": {
-        "teamA": "SV Werder Bremen",
-        "teamB": "FC Augsburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
-        },
-        {
-          "channel_name": "Sky4 Bundesliga HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
-        }
-      ],
-      "id": "evt_5b1c90940e42"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Eintracht Frankfurt Vs SC Freiburg",
-      "eventInfo": {
-        "teamA": "Eintracht Frankfurt",
-        "teamB": "SC Freiburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
-        },
-        {
-          "channel_name": "SKY3 BUNDESLIGA HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
-        }
-      ],
-      "id": "evt_81b88eb047bb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hamburger SV Vs 1. FC Köln",
-      "eventInfo": {
-        "teamA": "Hamburger SV",
-        "teamB": "1. FC Köln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
-        },
-        {
-          "channel_name": "SKY BUNDESLIGA HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga1.m3u8"
-        }
-      ],
-      "id": "evt_f7226e2923fd"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "VfB Stuttgart Vs Borussia Dortmund",
       "eventInfo": {
         "teamA": "VfB Stuttgart",
@@ -2237,31 +3448,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Borussia M'gladbach Vs 1. FSV Mainz 05",
-      "eventInfo": {
-        "teamA": "Borussia M'gladbach",
-        "teamB": "1. FSV Mainz 05",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1476/index.m3u8"
-        },
-        {
-          "channel_name": "SKY2 BUNDESLIGA HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga2.m3u8"
-        }
-      ],
-      "id": "evt_af75fcfd9790"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "SG Dynamo Dresden Vs Hertha BSC",
       "eventInfo": {
         "teamA": "SG Dynamo Dresden",
@@ -2283,31 +3469,6 @@
         }
       ],
       "id": "evt_fa76d61c69ce"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Bayern München Vs 1. FC Köln",
-      "eventInfo": {
-        "teamA": "FC Bayern München",
-        "teamB": "1. FC Köln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229794/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN1 DE HD..",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
-        },
-        {
-          "channel_name": "DAZN2 DE HD..",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
-        }
-      ],
-      "id": "evt_6bbdf575f84c"
     },
     {
       "status": "UPCOMING",
@@ -2560,14 +3721,7 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "20/09/2026 01:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
+      "streams": [],
       "id": "evt_2bd6aeaa93af"
     },
     {
@@ -2633,60 +3787,6 @@
         }
       ],
       "id": "evt_f0dd3deb0caa"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kocaelispor Vs Gaziantep FK",
-      "eventInfo": {
-        "teamA": "Kocaelispor",
-        "teamB": "Gaziantep FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN2  TR HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
-        },
-        {
-          "channel_name": "BEIN SPORTS USA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2987/index.m3u8"
-        }
-      ],
-      "id": "evt_1dd59262335f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Çorum FK Vs Alanyaspor",
-      "eventInfo": {
-        "teamA": "Çorum FK",
-        "teamB": "Alanyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN SPORTS USA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8"
-        },
-        {
-          "channel_name": "beIN1  TR HD x",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
-        }
-      ],
-      "id": "evt_9ca24f5fb18e"
     },
     {
       "status": "UPCOMING",
@@ -2763,7 +3863,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 05:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
+        }
+      ],
       "id": "evt_e471ef21ed9e"
     },
     {
@@ -2779,7 +3884,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 05:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        }
+      ],
       "id": "evt_f6919e600fa6"
     },
     {
@@ -2795,7 +3905,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 05:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
+        }
+      ],
       "id": "evt_b9f9720f96d7"
     },
     {
@@ -2811,7 +3926,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 05:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1476/index.m3u8"
+        }
+      ],
       "id": "evt_1bd8ac6fea58"
     },
     {
@@ -2827,7 +3947,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1910/index.m3u8"
+        }
+      ],
       "id": "evt_896b6635f626"
     },
     {
@@ -2843,7 +3968,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 08:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1476/index.m3u8"
+        }
+      ],
       "id": "evt_5b87adef2afb"
     },
     {
@@ -2859,7 +3989,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1865/index.m3u8"
+        }
+      ],
       "id": "evt_a53d26033b5f"
     },
     {
@@ -2875,7 +4010,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1503/index.m3u8"
+        }
+      ],
       "id": "evt_eb8bdacfe440"
     },
     {
@@ -2891,7 +4031,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1634/index.m3u8"
+        }
+      ],
       "id": "evt_a187fbce0df5"
     },
     {
@@ -2907,7 +4052,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 07:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        }
+      ],
       "id": "evt_5245f26f31a9"
     },
     {
@@ -2929,6 +4079,10 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
         }
       ],
       "id": "evt_62afce986eb2"
@@ -2946,7 +4100,12 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1749/index.m3u8"
+        }
+      ],
       "id": "evt_93712bb2e8d0"
     },
     {
@@ -2962,490 +4121,13 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "20/09/2026 07:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
+        }
+      ],
       "id": "evt_65bc73060aef"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Birmingham City Vs Middlesbrough",
-      "eventInfo": {
-        "teamA": "Birmingham City",
-        "teamB": "Middlesbrough",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2010/index.m3u8"
-        }
-      ],
-      "id": "evt_16384b7d80ca"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Burnley Vs Derby County",
-      "eventInfo": {
-        "teamA": "Burnley",
-        "teamB": "Derby County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1910/index.m3u8"
-        }
-      ],
-      "id": "evt_b2a2fc3498e0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stoke City Vs Sheffield United",
-      "eventInfo": {
-        "teamA": "Stoke City",
-        "teamB": "Sheffield United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0c3e952e9ef8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Queens Park Rangers Vs Preston North End",
-      "eventInfo": {
-        "teamA": "Queens Park Rangers",
-        "teamB": "Preston North End",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_37eaeff95a22"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cardiff City Vs Charlton Athletic",
-      "eventInfo": {
-        "teamA": "Cardiff City",
-        "teamB": "Charlton Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_62fbe92d2d71"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Millwall Vs West Ham United",
-      "eventInfo": {
-        "teamA": "Millwall",
-        "teamB": "West Ham United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SKY FOOTBALL HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2489/index.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1865/index.m3u8"
-        }
-      ],
-      "id": "evt_261d9760cbe7"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wrexham Vs Southampton",
-      "eventInfo": {
-        "teamA": "Wrexham",
-        "teamB": "Southampton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1865/index.m3u8"
-        }
-      ],
-      "id": "evt_824cf3e98d22"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Portsmouth Vs Blackburn Rovers",
-      "eventInfo": {
-        "teamA": "Portsmouth",
-        "teamB": "Blackburn Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_4e5dbfdd7c61"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lincoln City Vs Swansea City",
-      "eventInfo": {
-        "teamA": "Lincoln City",
-        "teamB": "Swansea City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
-        "eventName": "Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_43026f5fa7ff"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bromley Vs Huddersfield Town",
-      "eventInfo": {
-        "teamA": "Bromley",
-        "teamB": "Huddersfield Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/59/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_9cba9ccd2e4e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Barnsley Vs Leicester City",
-      "eventInfo": {
-        "teamA": "Barnsley",
-        "teamB": "Leicester City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        }
-      ],
-      "id": "evt_e1c5864681a2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Blackpool Vs Plymouth Argyle",
-      "eventInfo": {
-        "teamA": "Blackpool",
-        "teamB": "Plymouth Argyle",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/67/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_47c3ff442092"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Leyton Orient Vs Stevenage",
-      "eventInfo": {
-        "teamA": "Leyton Orient",
-        "teamB": "Stevenage",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/83/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f579a2617f75"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Burton Albion Vs Mansfield Town",
-      "eventInfo": {
-        "teamA": "Burton Albion",
-        "teamB": "Mansfield Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/70/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_747bc03d2a36"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Luton Town Vs Bradford City",
-      "eventInfo": {
-        "teamA": "Luton Town",
-        "teamB": "Bradford City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_45bacf4761bb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Reading Vs Notts County",
-      "eventInfo": {
-        "teamA": "Reading",
-        "teamB": "Notts County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_647f572e8dc5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sheffield Wednesday Vs Stockport County",
-      "eventInfo": {
-        "teamA": "Sheffield Wednesday",
-        "teamB": "Stockport County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_9886f47c1f71"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Oxford United Vs Cambridge United",
-      "eventInfo": {
-        "teamA": "Oxford United",
-        "teamB": "Cambridge United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_fd5d8c68d044"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Peterborough United Vs Doncaster Rovers",
-      "eventInfo": {
-        "teamA": "Peterborough United",
-        "teamB": "Doncaster Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/84/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_9a0ed232e187"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wigan Athletic Vs Wycombe Wanderers",
-      "eventInfo": {
-        "teamA": "Wigan Athletic",
-        "teamB": "Wycombe Wanderers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
-        "eventName": "League One",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f7772261ccd3"
     },
     {
       "status": "UPCOMING",
@@ -3514,52 +4196,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "St. Johnstone Vs Falkirk FC",
-      "eventInfo": {
-        "teamA": "St. Johnstone",
-        "teamB": "Falkirk FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2348/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8fa9bcfcedd9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Dundee FC Vs Motherwell",
-      "eventInfo": {
-        "teamA": "Dundee FC",
-        "teamB": "Motherwell",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8578e5b77d98"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Kilmarnock Vs Heart of Midlothian",
       "eventInfo": {
         "teamA": "Kilmarnock",
@@ -3578,52 +4214,6 @@
         }
       ],
       "id": "evt_eb74d0d60b66"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hibernian Vs Aberdeen",
-      "eventInfo": {
-        "teamA": "Hibernian",
-        "teamB": "Aberdeen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_30a09754832f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "St. Mirren Vs Dundee United",
-      "eventInfo": {
-        "teamA": "St. Mirren",
-        "teamB": "Dundee United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_917d95f9645e"
     },
     {
       "status": "UPCOMING",
@@ -3743,29 +4333,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Richards Bay FC Vs Sekhukhune United",
-      "eventInfo": {
-        "teamA": "Richards Bay FC",
-        "teamB": "Sekhukhune United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/263079/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371341/image",
-        "eventName": "South African Premier Division",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d5f40d8a2cc1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Polokwane City Vs AmaZulu FC",
       "eventInfo": {
         "teamA": "Polokwane City",
@@ -3871,92 +4438,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Charlton Athletic WFC Vs London City Lionesses",
-      "eventInfo": {
-        "teamA": "Charlton Athletic WFC",
-        "teamB": "London City Lionesses",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/326573/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "19/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BBC TWO FHD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8"
-        },
-        {
-          "channel_name": "SKY7 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2122/index.m3u8"
-        }
-      ],
-      "id": "evt_6e2c1921f995"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chelsea FC Vs Birmingham City W.F.C.",
-      "eventInfo": {
-        "teamA": "Chelsea FC",
-        "teamB": "Birmingham City W.F.C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "19/09/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "PREMIER LEAGUE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
-        },
-        {
-          "channel_name": "SKY9 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2233/index.m3u8"
-        }
-      ],
-      "id": "evt_6f31dfc5bb2b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mamelodi Sundowns Vs Al-Ahli",
-      "eventInfo": {
-        "teamA": "Mamelodi Sundowns",
-        "teamB": "Al-Ahli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "eventName": "FIFA Intercontinental Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_99df2b7ac7fa"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Club Atlético de Madrid Vs Logroño United",
       "eventInfo": {
         "teamA": "Club Atlético de Madrid",
@@ -3974,27 +4455,6 @@
         }
       ],
       "id": "evt_6ff52efda3db"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "RCD Espanyol de Barcelona Vs Madrid CFF",
-      "eventInfo": {
-        "teamA": "RCD Espanyol de Barcelona",
-        "teamB": "Madrid CFF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN2 ES HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
-        }
-      ],
-      "id": "evt_5ff7fdaeaa68"
     },
     {
       "status": "UPCOMING",
@@ -4053,10 +4513,8 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/3342/index.m3u8"
         }
       ],
       "id": "evt_165c0988ace2"
@@ -4230,47 +4688,8 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "19/09/2026 09:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
+      "streams": [],
       "id": "evt_72d4cdd055c4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Västerås SK Vs Malmö FF",
-      "eventInfo": {
-        "teamA": "Västerås SK",
-        "teamB": "Malmö FF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1775/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1892/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_80a9a159d9af"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "IF Brommapojkarna Vs IFK Göteborg",
-      "eventInfo": {
-        "teamA": "IF Brommapojkarna",
-        "teamB": "IFK Göteborg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1787/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1761/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_1523d8748ae6"
     },
     {
       "status": "UPCOMING",
@@ -4327,28 +4746,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "South Korea U20 Vs Italy U20",
-      "eventInfo": {
-        "teamA": "South Korea U20",
-        "teamB": "Italy U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/43217/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/71900/image",
-        "eventName": "U-20 Women's World Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_d614fe81960c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "North Korea U20 Vs Canada U20",
       "eventInfo": {
         "teamA": "North Korea U20",
@@ -4366,27 +4763,6 @@
         }
       ],
       "id": "evt_7a456a240019"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Palermo Vs Padova",
-      "eventInfo": {
-        "teamA": "Palermo",
-        "teamB": "Padova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
-        "eventName": "Serie B",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
-        }
-      ],
-      "id": "evt_841df1ebf1b8"
     },
     {
       "status": "UPCOMING",
@@ -4414,29 +4790,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Carrarese Vs Benevento",
-      "eventInfo": {
-        "teamA": "Carrarese",
-        "teamB": "Benevento",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2745/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
-        "eventName": "Serie B",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ea59efdd7d64"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Ascoli Vs US Avellino 1912",
       "eventInfo": {
         "teamA": "Ascoli",
@@ -4456,29 +4809,6 @@
         }
       ],
       "id": "evt_6fe0b82d2f04"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cremonese Vs Virtus Entella",
-      "eventInfo": {
-        "teamA": "Cremonese",
-        "teamB": "Virtus Entella",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
-        "eventName": "Serie B",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "19/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2a4c21bdc85d"
     },
     {
       "status": "UPCOMING",
@@ -4529,31 +4859,6 @@
         }
       ],
       "id": "evt_49377b3559ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "MKS Korona Kielce Vs Raków Częstochowa",
-      "eventInfo": {
-        "teamA": "MKS Korona Kielce",
-        "teamB": "Raków Częstochowa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5065/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "19/09/2026 06:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Beix Sports XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        },
-        {
-          "channel_name": "beiN ES HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        }
-      ],
-      "id": "evt_c4678810d770"
     },
     {
       "status": "UPCOMING",
@@ -4766,33 +5071,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "England Vs Canada",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/164602/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/164600/image",
-        "eventName": "WXV, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "startTime": "19/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        }
-      ],
-      "id": "evt_c50de5478128"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "France Vs Australia",
       "eventInfo": {
         "teamA": "France",
@@ -4975,34 +5253,6 @@
         }
       ],
       "id": "evt_c66d88df54ac"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Rolex SailGP Champ Vs Switzerland SailGP",
-      "eventInfo": {
-        "teamA": "Rolex SailGP Champ",
-        "teamB": "Switzerland SailGP",
-        "teamAFlag": "b",
-        "teamBFlag": "b",
-        "eventName": "⛵Rolex SailGP Championship | Switzerland SailGP",
-        "event_logo": "v",
-        "startTime": "19/09/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_e9435914c9a1"
     },
     {
       "status": "UPCOMING",
@@ -5588,57 +5838,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bundesliga Vs SIMULACAST",
-      "eventInfo": {
-        "teamA": "Bundesliga",
-        "teamB": "SIMULACAST",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "19/09/2026 07:25:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN1 DE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
-        }
-      ],
-      "id": "evt_e5fae4a17366"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Premier League Vs Premier League",
-      "eventInfo": {
-        "teamA": "Premier League",
-        "teamB": "Premier League",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "eventName": "Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "19/09/2026 07:55:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY8 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
-        },
-        {
-          "channel_name": "PREMIER LEAGUE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        }
-      ],
-      "id": "evt_6994f793b958"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "San Diego Padres Vs Miami Marlins",
       "eventInfo": {
@@ -5705,6 +5904,29 @@
         }
       ],
       "id": "evt_b0c47526f742"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Olympiacos BC Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "Olympiacos BC",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3501/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+        "eventName": "Euroleague SuperCup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37127/image/dark",
+        "startTime": "19/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8ecab111ba4b"
     },
     {
       "status": "ENDED",
@@ -6130,6 +6352,50 @@
     {
       "status": "ENDED",
       "Category": "Aussie rules",
+      "event_name": "Hawthorn Hawks Vs Brisbane Lions",
+      "eventInfo": {
+        "teamA": "Hawthorn Hawks",
+        "teamB": "Brisbane Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4445/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+        "eventName": "AFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "startTime": "19/09/2026 01:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/fsss.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7d87901f0fa0"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
       "event_name": "Melbourne Demons Vs Carlton Blues",
       "eventInfo": {
         "teamA": "Melbourne Demons",
@@ -6182,6 +6448,32 @@
     },
     {
       "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Cronulla Sharks",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Cronulla Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
+        "eventName": "NRL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+        "startTime": "19/09/2026 03:50:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/frfrfrA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_fc8826010a52"
+    },
+    {
+      "status": "ENDED",
       "Category": "Baseball",
       "event_name": "Arizona Diamondbacks Vs New York Yankees",
       "eventInfo": {
@@ -6221,6 +6513,75 @@
         }
       ],
       "id": "evt_a3aff0e6c3f6_2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Badalona Vs Real Sociedad",
+      "eventInfo": {
+        "teamA": "FC Badalona",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "19/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/MMMM.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN2 ES HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
+        }
+      ],
+      "id": "evt_ede69f876e07"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Real Madrid U19 Vs Santiago Wanderers U20",
+      "eventInfo": {
+        "teamA": "Real Madrid U19",
+        "teamB": "Santiago Wanderers U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/120854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/518162/image",
+        "eventName": "U20 Intercontinental Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21049/image/dark",
+        "startTime": "19/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ],
+      "id": "evt_79924bb1b22d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Wellington Lions Vs Northland",
+      "eventInfo": {
+        "teamA": "Wellington Lions",
+        "teamB": "Northland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42716/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42721/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "19/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ],
+      "id": "evt_735542595251"
     },
     {
       "status": "ENDED",
