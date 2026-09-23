@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:53:19 AM 24-09-2026",
+  "last_update_time": "05:21:40 AM 24-09-2026",
   "total_matches": 133,
-  "live_match": 8,
+  "live_match": 18,
   "matches": [
     {
       "status": "LIVE",
@@ -25,126 +25,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Chelsea FC Vs FK Austria Wien",
+      "event_name": "Aruba Vs Antigua and Barbuda",
       "eventInfo": {
-        "teamA": "Chelsea FC",
-        "teamB": "FK Austria Wien",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229911/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "24/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        },
-        {
-          "channel_name": "BeIN SPORTS XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        },
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        }
-      ],
-      "id": "evt_e3eedf9d2162"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fútbol Club Barcelona Vs Paris FC",
-      "eventInfo": {
-        "teamA": "Fútbol Club Barcelona",
-        "teamB": "Paris FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "24/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        }
-      ],
-      "id": "evt_c315d64fd94b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Turks and Caicos Islands Vs Montserrat",
-      "eventInfo": {
-        "teamA": "Turks and Caicos Islands",
-        "teamB": "Montserrat",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21823/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+        "teamA": "Aruba",
+        "teamB": "Antigua and Barbuda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
         "eventName": "CONCACAF Nations League",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "24/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
-        }
-      ],
-      "id": "evt_be6dcaa7b8b6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Asociación Deportiva Tarma Vs Cienciano",
-      "eventInfo": {
-        "teamA": "Asociación Deportiva Tarma",
-        "teamB": "Cienciano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/335557/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "24/09/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_cdabc6b7290a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Bahamas Vs Saint Martin",
-      "eventInfo": {
-        "teamA": "Bahamas",
-        "teamB": "Saint Martin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21807/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "24/09/2026 02:00:00 AM"
+        "startTime": "24/09/2026 05:00:00 AM"
       },
       "streams": [
         {
@@ -153,30 +42,139 @@
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ],
-      "id": "evt_af22475bde52"
+      "id": "evt_3932042837d6"
     },
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "San Francisco Giants Vs Minnesota Twins",
+      "event_name": "Pittsburgh Pirates Vs St. Louis Cardinals",
       "eventInfo": {
-        "teamA": "San Francisco Giants",
-        "teamB": "Minnesota Twins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "teamA": "Pittsburgh Pirates",
+        "teamB": "St. Louis Cardinals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 01:45:00 AM"
+        "startTime": "24/09/2026 04:40:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/bzagLHzach19.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_9695eae5024b"
+      "id": "evt_b31dc9242f33"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Philadelphia Phillies Vs Milwaukee Brewers",
+      "eventInfo": {
+        "teamA": "Philadelphia Phillies",
+        "teamB": "Milwaukee Brewers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 04:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/Czajafjihafch18.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e9eeade17c6b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Baltimore Orioles Vs Toronto Blue Jays",
+      "eventInfo": {
+        "teamA": "Baltimore Orioles",
+        "teamB": "Toronto Blue Jays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 04:35:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EMMMAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_02396e8a56da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Toronto Maple Leafs Vs Ottawa Senators",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Ottawa Senators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "24/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "id": "evt_328bd9b79d43"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Ottawa Senators Vs Toronto Maple Leafs",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Toronto Maple Leafs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "24/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_541dce3e855a"
     },
     {
       "status": "LIVE",
@@ -193,6 +191,237 @@
       },
       "streams": [],
       "id": "evt_7038c5943543"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Belgrano Reserve Vs Talleres de Córdoba Reserve",
+      "eventInfo": {
+        "teamA": "Belgrano Reserve",
+        "teamB": "Talleres de Córdoba Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/248683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/251006/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "24/09/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN3 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
+        }
+      ],
+      "id": "evt_e925f8169477"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Afghanistan Vs Japan",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/445296/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "24/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ASIA CRICKET",
+          "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_60a62b2b1285"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Boston Red Sox Vs Cleveland Guardians",
+      "eventInfo": {
+        "teamA": "Boston Red Sox",
+        "teamB": "Cleveland Guardians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 05:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_6ce6a2d6e49e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Atlanta Braves Vs Cincinnati Reds",
+      "eventInfo": {
+        "teamA": "Atlanta Braves",
+        "teamB": "Cincinnati Reds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 05:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_24b3c4fcfc2f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Kansas City Royals Vs Chicago White Sox",
+      "eventInfo": {
+        "teamA": "Kansas City Royals",
+        "teamB": "Chicago White Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 05:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_d36ab65e05bf"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "New York Yankees Vs Tampa Bay Rays",
+      "eventInfo": {
+        "teamA": "New York Yankees",
+        "teamB": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 05:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/ojzkajnach21.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_0a585de03438"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Chicago Cubs Vs Miami Marlins",
+      "eventInfo": {
+        "teamA": "Chicago Cubs",
+        "teamB": "Miami Marlins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 05:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/fskjanach24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_bc0065f0f72a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "New York Liberty Vs Atlanta Dream",
+      "eventInfo": {
+        "teamA": "New York Liberty",
+        "teamB": "Atlanta Dream",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "24/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_62b2f7d203ec"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Dallas Stars Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Dallas Stars",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "24/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_77caceaaf1f1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Deportes Iquique Vs Club Deportes Antofagasta",
+      "eventInfo": {
+        "teamA": "Deportes Iquique",
+        "teamB": "Club Deportes Antofagasta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33596/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5601/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "24/09/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_af9cb0aafeae"
     },
     {
       "status": "UPCOMING",
@@ -299,32 +528,6 @@
         }
       ],
       "id": "evt_bbb2d3c2242a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Japan",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Japan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/445296/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
-        "startTime": "24/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ASIA CRICKET",
-          "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_60a62b2b1285"
     },
     {
       "status": "UPCOMING",
@@ -1743,28 +1946,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Aruba Vs Antigua and Barbuda",
-      "eventInfo": {
-        "teamA": "Aruba",
-        "teamB": "Antigua and Barbuda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_3932042837d6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Palestine Vs New Zealand",
       "eventInfo": {
         "teamA": "Palestine",
@@ -2217,201 +2398,6 @@
     {
       "status": "UPCOMING",
       "Category": "Baseball",
-      "event_name": "Pittsburgh Pirates Vs St. Louis Cardinals",
-      "eventInfo": {
-        "teamA": "Pittsburgh Pirates",
-        "teamB": "St. Louis Cardinals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 04:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/bzagLHzach19.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_b31dc9242f33"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Philadelphia Phillies Vs Milwaukee Brewers",
-      "eventInfo": {
-        "teamA": "Philadelphia Phillies",
-        "teamB": "Milwaukee Brewers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 04:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/Czajafjihafch18.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e9eeade17c6b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Baltimore Orioles Vs Toronto Blue Jays",
-      "eventInfo": {
-        "teamA": "Baltimore Orioles",
-        "teamB": "Toronto Blue Jays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 04:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/EMMMAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_02396e8a56da"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Boston Red Sox Vs Cleveland Guardians",
-      "eventInfo": {
-        "teamA": "Boston Red Sox",
-        "teamB": "Cleveland Guardians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_6ce6a2d6e49e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Atlanta Braves Vs Cincinnati Reds",
-      "eventInfo": {
-        "teamA": "Atlanta Braves",
-        "teamB": "Cincinnati Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_24b3c4fcfc2f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Kansas City Royals Vs Chicago White Sox",
-      "eventInfo": {
-        "teamA": "Kansas City Royals",
-        "teamB": "Chicago White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 05:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d36ab65e05bf"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "New York Yankees Vs Tampa Bay Rays",
-      "eventInfo": {
-        "teamA": "New York Yankees",
-        "teamB": "Tampa Bay Rays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 05:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/ojzkajnach21.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0a585de03438"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Chicago Cubs Vs Miami Marlins",
-      "eventInfo": {
-        "teamA": "Chicago Cubs",
-        "teamB": "Miami Marlins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "24/09/2026 05:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/fskjanach24.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_bc0065f0f72a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
       "event_name": "Texas Rangers Vs New York Mets",
       "eventInfo": {
         "teamA": "Texas Rangers",
@@ -2555,87 +2541,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "New York Liberty Vs Atlanta Dream",
-      "eventInfo": {
-        "teamA": "New York Liberty",
-        "teamB": "Atlanta Dream",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "24/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_62b2f7d203ec"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Dallas Stars Vs Minnesota Wild",
-      "eventInfo": {
-        "teamA": "Dallas Stars",
-        "teamB": "Minnesota Wild",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "24/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_77caceaaf1f1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Toronto Maple Leafs Vs Ottawa Senators",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_328bd9b79d43"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Ice hockey",
       "event_name": "Anaheim Ducks Vs Los Angeles Kings",
       "eventInfo": {
@@ -2656,67 +2561,6 @@
         }
       ],
       "id": "evt_ab871099a58a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Ottawa Senators Vs Toronto Maple Leafs",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_541dce3e855a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Deportes Iquique Vs Club Deportes Antofagasta",
-      "eventInfo": {
-        "teamA": "Deportes Iquique",
-        "teamB": "Club Deportes Antofagasta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33596/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5601/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "24/09/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_af9cb0aafeae"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Belgrano Reserve Vs Talleres de Córdoba Reserve",
-      "eventInfo": {
-        "teamA": "Belgrano Reserve",
-        "teamB": "Talleres de Córdoba Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/248683/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/251006/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "24/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN3 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
-        }
-      ],
-      "id": "evt_e925f8169477"
     },
     {
       "status": "UPCOMING",
@@ -3042,6 +2886,46 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Chelsea FC Vs FK Austria Wien",
+      "eventInfo": {
+        "teamA": "Chelsea FC",
+        "teamB": "FK Austria Wien",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229911/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "24/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "BeIN SPORTS XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        }
+      ],
+      "id": "evt_e3eedf9d2162"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Saudi Arabia Vs Kuwait",
       "eventInfo": {
         "teamA": "Saudi Arabia",
@@ -3081,6 +2965,99 @@
         }
       ],
       "id": "evt_6f76b2cfe20f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Fútbol Club Barcelona Vs Paris FC",
+      "eventInfo": {
+        "teamA": "Fútbol Club Barcelona",
+        "teamB": "Paris FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "24/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        }
+      ],
+      "id": "evt_c315d64fd94b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Turks and Caicos Islands Vs Montserrat",
+      "eventInfo": {
+        "teamA": "Turks and Caicos Islands",
+        "teamB": "Montserrat",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21823/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "24/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
+        }
+      ],
+      "id": "evt_be6dcaa7b8b6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Asociación Deportiva Tarma Vs Cienciano",
+      "eventInfo": {
+        "teamA": "Asociación Deportiva Tarma",
+        "teamB": "Cienciano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/335557/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "24/09/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_cdabc6b7290a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Bahamas Vs Saint Martin",
+      "eventInfo": {
+        "teamA": "Bahamas",
+        "teamB": "Saint Martin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21807/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "24/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_af22475bde52"
     },
     {
       "status": "ENDED",
@@ -3136,6 +3113,29 @@
         }
       ],
       "id": "evt_02396e8a56da_2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "San Francisco Giants Vs Minnesota Twins",
+      "eventInfo": {
+        "teamA": "San Francisco Giants",
+        "teamB": "Minnesota Twins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "24/09/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_9695eae5024b"
     },
     {
       "status": "ENDED",
