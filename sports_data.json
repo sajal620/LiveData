@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:21:49 AM 29-09-2026",
+  "last_update_time": "08:15:40 AM 29-09-2026",
   "total_matches": 94,
-  "live_match": 6,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -103,101 +103,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cuba Vs Bonaire",
-      "eventInfo": {
-        "teamA": "Cuba",
-        "teamB": "Bonaire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
-        }
-      ],
-      "id": "evt_41e64e379572"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Suriname Vs Martinique",
-      "eventInfo": {
-        "teamA": "Suriname",
-        "teamB": "Martinique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
-        }
-      ],
-      "id": "evt_e6607dc7d3b4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sportivo San Lorenzo Vs Recoleta FC",
-      "eventInfo": {
-        "teamA": "Sportivo San Lorenzo",
-        "teamB": "Recoleta FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "29/09/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_aa1fcd9cd884"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Montevideo Wanderers Vs Albion FC",
-      "eventInfo": {
-        "teamA": "Montevideo Wanderers",
-        "teamB": "Albion FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3240/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/278204/image",
-        "eventName": "Liga AUF Uruguaya",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-        "startTime": "29/09/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_37befeb3a56f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Libertad Vs Olimpia",
-      "eventInfo": {
-        "teamA": "Libertad",
-        "teamB": "Olimpia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5997/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "29/09/2026 04:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_b30812885622"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "WWE RAW Vs WWE RAW",
       "eventInfo": {
@@ -240,6 +145,191 @@
         }
       ],
       "id": "evt_0b979d3e355a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Chicago Bears Vs Philadelphia Eagles",
+      "eventInfo": {
+        "teamA": "Chicago Bears",
+        "teamB": "Philadelphia Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+        "eventName": "NFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "29/09/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_3705da2ac720"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saint Kitts and Nevis Vs Grenada",
+      "eventInfo": {
+        "teamA": "Saint Kitts and Nevis",
+        "teamB": "Grenada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21814/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1609/index.m3u8"
+        }
+      ],
+      "id": "evt_0e2155ccad41"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Guatemala Vs El Salvador",
+      "eventInfo": {
+        "teamA": "Guatemala",
+        "teamB": "El Salvador",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY. ",
+          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+        }
+      ],
+      "id": "evt_1fc9be2b12da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Jamaica Vs Honduras",
+      "eventInfo": {
+        "teamA": "Jamaica",
+        "teamB": "Honduras",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4827/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY",
+          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
+        }
+      ],
+      "id": "evt_03ebacecb762"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saint Lucia Vs Bermuda",
+      "eventInfo": {
+        "teamA": "Saint Lucia",
+        "teamB": "Bermuda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4745/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1709/index.m3u8"
+        }
+      ],
+      "id": "evt_933325920807"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Necaxa W Vs Toluca W",
+      "eventInfo": {
+        "teamA": "Necaxa W",
+        "teamB": "Toluca W",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274432/image",
+        "teamBFlag": "j",
+        "eventName": "Liga MX, Apertura Women's",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "29/09/2026 07:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_b4d8d34b00c1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ca Lanus Vs Gimnasia (CR)",
+      "eventInfo": {
+        "teamA": "Ca Lanus",
+        "teamB": "Gimnasia (CR)",
+        "teamAFlag": "b",
+        "teamBFlag": "b",
+        "eventName": "Baloncesto Argentina Liga Nacional",
+        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "startTime": "29/09/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2ec3bf76c1c2"
     },
     {
       "status": "UPCOMING",
@@ -302,59 +392,6 @@
         }
       ],
       "id": "evt_722e5fd8f782"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Chicago Bears Vs Philadelphia Eagles",
-      "eventInfo": {
-        "teamA": "Chicago Bears",
-        "teamB": "Philadelphia Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-        "eventName": "NFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "29/09/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_3705da2ac720"
     },
     {
       "status": "UPCOMING",
@@ -457,100 +494,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Saint Kitts and Nevis Vs Grenada",
-      "eventInfo": {
-        "teamA": "Saint Kitts and Nevis",
-        "teamB": "Grenada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21814/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1609/index.m3u8"
-        }
-      ],
-      "id": "evt_0e2155ccad41"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Guatemala Vs El Salvador",
-      "eventInfo": {
-        "teamA": "Guatemala",
-        "teamB": "El Salvador",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY. ",
-          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
-        }
-      ],
-      "id": "evt_1fc9be2b12da"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Jamaica Vs Honduras",
-      "eventInfo": {
-        "teamA": "Jamaica",
-        "teamB": "Honduras",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4827/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY",
-          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
-        }
-      ],
-      "id": "evt_03ebacecb762"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Saint Lucia Vs Bermuda",
-      "eventInfo": {
-        "teamA": "Saint Lucia",
-        "teamB": "Bermuda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4745/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1709/index.m3u8"
-        }
-      ],
-      "id": "evt_933325920807"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Thailand Vs Vietnam",
       "eventInfo": {
         "teamA": "Thailand",
@@ -589,44 +532,6 @@
         }
       ],
       "id": "evt_49edb57c050c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Necaxa W Vs Toluca W",
-      "eventInfo": {
-        "teamA": "Necaxa W",
-        "teamB": "Toluca W",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274432/image",
-        "teamBFlag": "j",
-        "eventName": "Liga MX, Apertura Women's",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "29/09/2026 07:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_b4d8d34b00c1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ca Lanus Vs Gimnasia (CR)",
-      "eventInfo": {
-        "teamA": "Ca Lanus",
-        "teamB": "Gimnasia (CR)",
-        "teamAFlag": "b",
-        "teamBFlag": "b",
-        "eventName": "Baloncesto Argentina Liga Nacional",
-        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
-        "startTime": "29/09/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2ec3bf76c1c2"
     },
     {
       "status": "UPCOMING",
@@ -2661,6 +2566,53 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Cuba Vs Bonaire",
+      "eventInfo": {
+        "teamA": "Cuba",
+        "teamB": "Bonaire",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+        }
+      ],
+      "id": "evt_41e64e379572"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Suriname Vs Martinique",
+      "eventInfo": {
+        "teamA": "Suriname",
+        "teamB": "Martinique",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
+        }
+      ],
+      "id": "evt_e6607dc7d3b4"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Guadeloupe Vs Barbados",
       "eventInfo": {
         "teamA": "Guadeloupe",
@@ -2708,6 +2660,54 @@
         }
       ],
       "id": "evt_dfe6a716be38"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Montevideo Wanderers Vs Albion FC",
+      "eventInfo": {
+        "teamA": "Montevideo Wanderers",
+        "teamB": "Albion FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3240/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/278204/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "29/09/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_37befeb3a56f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sportivo San Lorenzo Vs Recoleta FC",
+      "eventInfo": {
+        "teamA": "Sportivo San Lorenzo",
+        "teamB": "Recoleta FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "29/09/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_aa1fcd9cd884"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Libertad Vs Olimpia",
+      "eventInfo": {
+        "teamA": "Libertad",
+        "teamB": "Olimpia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "29/09/2026 04:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b30812885622"
     },
     {
       "status": "ENDED",
