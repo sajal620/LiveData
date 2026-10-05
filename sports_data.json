@@ -2,10 +2,215 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:09:25 PM 05-10-2026",
-  "total_matches": 80,
-  "live_match": 4,
+  "last_update_time": "08:45:28 PM 05-10-2026",
+  "total_matches": 70,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "CYCLING EVENTO Vs CYCLING EVENTO",
+      "eventInfo": {
+        "teamA": "CYCLING EVENTO",
+        "teamB": "CYCLING EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "eventName": "CYCLING EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "startTime": "05/10/2026 07:01:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ],
+      "id": "evt_8b8e774bdacf"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Indonesia Vs Thailand",
+      "eventInfo": {
+        "teamA": "Indonesia",
+        "teamB": "Thailand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_eed05e3ad7b5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Uganda Vs DR Congo",
+      "eventInfo": {
+        "teamA": "Uganda",
+        "teamB": "DR Congo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/vvvv.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/vvvv.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_ed022f8128ea"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "05/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "ITV1 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+        },
+        {
+          "channel_name": "1 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "2 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "TABEL TENNIS | EVENTO Vs TABEL TENNIS | EVENTO",
+      "eventInfo": {
+        "teamA": "TABEL TENNIS | EVENTO",
+        "teamB": "TABEL TENNIS | EVENTO ",
+        "teamAFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "eventName": "TABEL TENNIS | EVENTO",
+        "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "startTime": "05/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        }
+      ],
+      "id": "evt_dfa9a60bf232"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Women Vs West Indies Women",
+      "eventInfo": {
+        "teamA": "Zimbabwe Women",
+        "teamB": "West Indies Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "eventName": "T20 International Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+        "startTime": "05/10/2026 04:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://c8.vfruitfairy.com/WIvsZIM/index.m3u8"
+        }
+      ],
+      "id": "evt_1fef10dd26a3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "World Championships Vs Judo - Baku",
+      "eventInfo": {
+        "teamA": "World Championships",
+        "teamB": "Judo - Baku",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
+        "eventName": "Judo : World Championships - Baku",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
+        "startTime": "05/10/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport3 Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
+        }
+      ],
+      "id": "evt_cb31a2651608"
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -135,92 +340,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ecuador Vs Panama",
-      "eventInfo": {
-        "teamA": "Ecuador",
-        "teamB": "Panama",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "05/10/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_1e2e262b359e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "World Championships Vs Judo - Baku",
-      "eventInfo": {
-        "teamA": "World Championships",
-        "teamB": "Judo - Baku",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
-        "eventName": "Judo : World Championships - Baku",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyanyFmHdnxUpzZzcMlCzWXtezoNSkUBxO0u1jVDZqg&s",
-        "startTime": "05/10/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        }
-      ],
-      "id": "evt_cb31a2651608"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Japan Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "05/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5ac8eb3f44bc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "TABEL TENNIS | EVENTO Vs TABEL TENNIS | EVENTO",
-      "eventInfo": {
-        "teamA": "TABEL TENNIS | EVENTO",
-        "teamB": "TABEL TENNIS | EVENTO ",
-        "teamAFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "eventName": "TABEL TENNIS | EVENTO",
-        "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "startTime": "05/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ],
-      "id": "evt_dfa9a60bf232"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "WCL 2026 Vs WCL 2026",
       "eventInfo": {
@@ -230,7 +349,7 @@
         "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
         "eventName": "World Champions Legends 2026 ",
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-        "startTime": "05/10/2026 05:30:00 PM"
+        "startTime": "05/10/2026 09:30:00 PM"
       },
       "streams": [
         {
@@ -240,124 +359,12 @@
           "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/TGGGAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
           "channel_name": "WILLOW SPORTS",
           "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "id": "evt_89557f78529c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "05/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
-        },
-        {
-          "channel_name": "1 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "2 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_3c671d56b0ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "CYCLING EVENTO Vs CYCLING EVENTO",
-      "eventInfo": {
-        "teamA": "CYCLING EVENTO",
-        "teamB": "CYCLING EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "eventName": "CYCLING EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "startTime": "05/10/2026 07:01:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_8b8e774bdacf"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mauritius Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Mauritius",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4780/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "05/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_376287ca3305"
     },
     {
       "status": "UPCOMING",
@@ -1919,226 +1926,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Washington Commanders Vs Indianapolis Colts",
-      "eventInfo": {
-        "teamA": "Washington Commanders",
-        "teamB": "Indianapolis Colts",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4421/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "04/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL GAME PASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/umxaf3xztn/out/v1/f5ae36bea1bf443a8345f43b0a61f90a/cenc.mpd",
-          "drm_key": "92a498e515e475f02b7589cf6e611575:cdfcb2e704b2c55c5b14812d4bfb409d"
-        },
-        {
-          "channel_name": "NFL SERVER FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
-          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        },
-        {
-          "channel_name": "NFL SERVER HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57564/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://storage.googleapis.com/buoyantsong/phi-stee/manifest.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/EUUUAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "NFL NETWORK HD",
-          "stream_url": "https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8?",
-          "referer": "https://streamscenter.online/"
-        },
-        {
-          "channel_name": "NFL NETWORK HD 2",
-          "stream_url": "https://edgestream1.pro/hls/hezfnezkfzk45.m3u8?",
-          "referer": "https://streamscenter.online/"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "id": "evt_a9cf53b76a79"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Kyrgyzstan Vs Lebanon",
-      "eventInfo": {
-        "teamA": "Kyrgyzstan",
-        "teamB": "Lebanon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4774/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "04/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4650044.m3u8?txSecret=eb4f085fa410792e0f22643ca1610e69&txTime=6AC268FD",
-          "referer": "https://player.online909.com/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZEEE.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_0247f9c1843b"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "VfB Stuttgart Vs 1. FC Union Berlin",
-      "eventInfo": {
-        "teamA": "VfB Stuttgart",
-        "teamB": "1. FC Union Berlin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/527815/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36618/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "04/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/ZEEEA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZEEEA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_ebfa6db23829"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Saracens Vs Sale Sharks",
-      "eventInfo": {
-        "teamA": "Saracens",
-        "teamB": "Sale Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4197/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4195/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "04/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZEEEAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_d5535b7dcc8f"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Sporting Gijón Vs Celta Fortuna",
-      "eventInfo": {
-        "teamA": "Sporting Gijón",
-        "teamB": "Celta Fortuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "04/10/2026 08:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": " QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/rlllQQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_f90b220098d6"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Manchester City Vs Arsenal",
-      "eventInfo": {
-        "teamA": "Manchester City",
-        "teamB": "Arsenal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "04/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qwz3wahnsk/out/v1/055b10e9ad6b477a95439e95ce28ebd6/c5709c01-6080-4fe1-928c-057f14bf5f68-cenc.mpd?aws_sessionId=eb50bff0-3d03-4ecc-a379-ee56fae53fb0",
-          "drm_key": "70d0c4396293ed1846e2c568a53c9ad8:98fa13af2e318289bec0349f6c417763"
-        },
-        {
-          "channel_name": "FANCODE FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SKY MAIN EVENT HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/ZEEEAAAQQQAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_79fd61e5c5a8"
-    },
-    {
-      "status": "ENDED",
       "Category": "Motorsports",
       "event_name": "WORLD SBK Vs WORLD SBK",
       "eventInfo": {
@@ -2159,189 +1946,6 @@
         }
       ],
       "id": "evt_0c8766f84d15"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Calgary Flames",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "05/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/rtzaeyvhb53.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_a1018b3fc8c9"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Carolina Panthers Vs Detroit Lions",
-      "eventInfo": {
-        "teamA": "Carolina Panthers",
-        "teamB": "Detroit Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "05/10/2026 06:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "NBCNY USA FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "SKY MAIN EVENT HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57631/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57629/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57630/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/jnfezkbfz43.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "BACKUP HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57632/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/LOLOLOA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/LOLOLO.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "SNF SPORTS HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57486/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_3357c79ed982"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Vancouver Canucks Vs Vegas Golden Knights",
-      "eventInfo": {
-        "teamA": "Vancouver Canucks",
-        "teamB": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "05/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57634/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600c3836-1e20-4ead-92cc-c2b48dd1ee4b/master.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_efc83118e134"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Llaneros FC Vs América de Cali",
-      "eventInfo": {
-        "teamA": "Llaneros FC",
-        "teamB": "América de Cali",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6102/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "05/10/2026 07:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/FYYYAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_202b719bf816"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Nicaragua Vs Dominican Republic",
-      "eventInfo": {
-        "teamA": "Nicaragua",
-        "teamB": "Dominican Republic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21813/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "05/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/22367/index.m3u8"
-        }
-      ],
-      "id": "evt_02d837f7d51f"
     },
     {
       "status": "ENDED",
@@ -2378,24 +1982,56 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "Pachuca W Vs Toluca W",
+      "event_name": "Malaysia Vs Vietnam",
       "eventInfo": {
-        "teamA": "Pachuca W",
-        "teamB": "Toluca W",
-        "teamAFlag": "n",
-        "teamBFlag": "j",
-        "eventName": "Liga MX, Apertura Women's",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "05/10/2026 07:00:00 PM"
+        "teamA": "Malaysia",
+        "teamB": "Vietnam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 03:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.41/hls/IRRRAA.m3u8?",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_a6c0ecfd2e5c"
+      "id": "evt_567b94da3162"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Japan Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "05/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_5ac8eb3f44bc"
     }
   ]
 }
