@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:13:17 AM 17-10-2026",
-  "total_matches": 201,
-  "live_match": 19,
+  "last_update_time": "03:24:35 PM 17-10-2026",
+  "total_matches": 203,
+  "live_match": 18,
   "matches": [
     {
       "status": "LIVE",
@@ -201,45 +201,76 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Auckland FC Vs Melbourne City",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
       "eventInfo": {
-        "teamA": "Auckland FC",
-        "teamB": "Melbourne City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/800224/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "17/10/2026 10:00:00 AM"
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "17/10/2026 01:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "channel_name": "Server 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/VUUUAAQ.m3u8",
+          "channel_name": "Server 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "Server 3",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "MMA Fighting",
+          "stream_url": "http://193.47.62.41/hls/ASSSA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_31f4091cefdd"
+      "id": "evt_38747064c422"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WORLD SBK | WORLDSSP Vs WORLD SBK | WORLDSSP",
+      "eventInfo": {
+        "teamA": "WORLD SBK | WORLDSSP",
+        "teamB": "WORLD SBK | WORLDSSP",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "eventName": "WORLD SBK | WORLDSSP",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "startTime": "17/10/2026 01:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        }
+      ],
+      "id": "evt_a971c80d5b60"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Newcastle Jets Vs Perth Glory",
+      "event_name": "Central Coast Mariners Vs Newcastle Jets",
       "eventInfo": {
-        "teamA": "Newcastle Jets",
-        "teamB": "Perth Glory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174102/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "17/10/2026 10:00:00 AM"
+        "teamA": "Central Coast Mariners",
+        "teamB": "Newcastle Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5966/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "17/10/2026 02:40:00 PM"
       },
       "streams": [
         {
@@ -249,141 +280,31 @@
           "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/VUUU.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
-      "id": "evt_f35e2d847646"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Melbourne Victory",
-      "eventInfo": {
-        "teamA": "Western Sydney Wanderers",
-        "teamB": "Melbourne Victory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174100/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "17/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + TNT5",
-          "stream_url": "http://193.47.62.41/hls/VUUUA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/VUUUA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9ac1e6bfa80c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlante FC Vs Pumas UNAM",
-      "eventInfo": {
-        "teamA": "Atlante FC",
-        "teamB": "Pumas UNAM",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "17/10/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        }
-      ],
-      "id": "evt_9fb30fa58fb1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Tijuana Vs Club Puebla",
-      "eventInfo": {
-        "teamA": "Club Tijuana",
-        "teamB": "Club Puebla",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36525/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "17/10/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_638800932a92"
+      "id": "evt_c7db33270e6e"
     },
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "Papua New Guinea Vs Lebanon",
+      "event_name": "England Vs Wales",
       "eventInfo": {
-        "teamA": "Papua New Guinea",
-        "teamB": "Lebanon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/234307/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "17/10/2026 10:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_ec5626e4ec00"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Papua New Guinea Vs France",
-      "eventInfo": {
-        "teamA": "Papua New Guinea",
-        "teamB": "France",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272013/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446307/image",
+        "teamA": "England",
+        "teamB": "Wales",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272012/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335210/image",
         "eventName": "World Cup, Women ",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "17/10/2026 08:15:00 AM"
+        "startTime": "17/10/2026 12:35:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -392,7 +313,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_caa0f8ace860"
+      "id": "evt_dd7e4b300845"
     },
     {
       "status": "LIVE",
@@ -419,42 +340,48 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Los Angeles Lakers Vs Denver Nuggets",
+      "event_name": "Sydney Kings Vs Perth Wildcats",
       "eventInfo": {
-        "teamA": "Los Angeles Lakers",
-        "teamB": "Denver Nuggets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "17/10/2026 08:30:00 AM"
+        "teamA": "Sydney Kings",
+        "teamB": "Perth Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "17/10/2026 02:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58126/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/139626cd-4279-417b-a718-e1470c5e219d.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/HTTTAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_9a591c7e8ba2"
+      "id": "evt_f0a1291a521c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "South East Melbourne Phoenix Vs Cairns Taipans",
+      "eventInfo": {
+        "teamA": "South East Melbourne Phoenix",
+        "teamB": "Cairns Taipans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "17/10/2026 12:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e0cc5e45d59a"
     },
     {
       "status": "LIVE",
@@ -530,112 +457,129 @@
     },
     {
       "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Brisbane Lions Vs Port Adelaide Power",
+      "eventInfo": {
+        "teamA": "Brisbane Lions",
+        "teamB": "Port Adelaide Power",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446335/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "17/10/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ],
+      "id": "evt_5daadb343a6c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "West Coast Eagles Vs Geelong Cats",
+      "eventInfo": {
+        "teamA": "West Coast Eagles",
+        "teamB": "Geelong Cats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "17/10/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_ba11b9305189"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Canada Vs Nepal",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "ICC CWC League 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+        "startTime": "17/10/2026 11:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTSCAST TV ",
+          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&",
+          "referer": "https%3A%2F%2Fwww.icc-cricket.com%2F",
+          "user_agent": "Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0",
+          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "channel_name": "SPORTSCAST TV ALT",
+          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&",
+          "referer": "https%3A%2F%2Fwww.icc-cricket.com%2F",
+          "user_agent": "Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0",
+          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        }
+      ],
+      "id": "evt_19aa49a67693"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sekhukhune U23 Vs Chippa Utd U23",
+      "eventInfo": {
+        "teamA": "Sekhukhune U23",
+        "teamB": "Chippa Utd U23",
+        "teamAFlag": "n",
+        "teamBFlag": "n",
+        "eventName": "South Africa Diski",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "startTime": "17/10/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.41/hls/ASSSAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9f3b250eb4d3"
+    },
+    {
+      "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "New Zealand Vs France",
+      "event_name": "England Vs Tonga",
       "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "France",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/164610/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/164616/image",
-        "eventName": "WXV, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "startTime": "17/10/2026 08:05:00 AM"
+        "teamA": "England",
+        "teamB": "Tonga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24236/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24244/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "17/10/2026 03:05:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/K111AAAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_4ea58507b35a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "MMA PFL Chicago Vs MMA PFL Chicago",
-      "eventInfo": {
-        "teamA": "MMA PFL Chicago",
-        "teamB": "MMA PFL Chicago",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-        "eventName": "MMA PFL Chicago",
-        "event_logo": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-        "startTime": "17/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58101/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/YDDD.m3u8",
+          "stream_url": "http://193.47.62.55/hls/5GGGAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_6433777c37c7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Brisbane Roar Vs Central Coast Mariners",
-      "eventInfo": {
-        "teamA": "Brisbane Roar",
-        "teamB": "Central Coast Mariners",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174078/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/488881/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "17/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/VUUUAAQQQQAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_0c510341a58a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Macarthur FC Vs Perth Glory",
-      "eventInfo": {
-        "teamA": "Macarthur FC",
-        "teamB": "Perth Glory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2945/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "17/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/VUUU.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_ad43dcd20a74"
+      "id": "evt_be07240f9aa1"
     },
     {
       "status": "UPCOMING",
@@ -1002,29 +946,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "WORLD SBK | WORLDSSP Vs WORLD SBK | WORLDSSP",
-      "eventInfo": {
-        "teamA": "WORLD SBK | WORLDSSP",
-        "teamB": "WORLD SBK | WORLDSSP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "eventName": "WORLD SBK | WORLDSSP",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "startTime": "17/10/2026 01:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ],
-      "id": "evt_a971c80d5b60"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Everton Vs Chelsea",
       "eventInfo": {
@@ -1045,108 +966,6 @@
         }
       ],
       "id": "evt_b4fb3ee79919"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Central Coast Mariners Vs Newcastle Jets",
-      "eventInfo": {
-        "teamA": "Central Coast Mariners",
-        "teamB": "Newcastle Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5966/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "17/10/2026 02:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "id": "evt_c7db33270e6e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "England Vs Wales",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Wales",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272012/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/335210/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "17/10/2026 12:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_dd7e4b300845"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs Perth Wildcats",
-      "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "Perth Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "17/10/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f0a1291a521c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "South East Melbourne Phoenix Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "South East Melbourne Phoenix",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "17/10/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e0cc5e45d59a"
     },
     {
       "status": "UPCOMING",
@@ -4055,28 +3874,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "England Vs Tonga",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Tonga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24236/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24244/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "17/10/2026 03:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_be07240f9aa1"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Cleveland Guardians Vs Tampa Bay Rays",
       "eventInfo": {
@@ -4454,50 +4251,6 @@
         }
       ],
       "id": "evt_666b4a79cef1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
-      "event_name": "Brisbane Lions Vs Port Adelaide Power",
-      "eventInfo": {
-        "teamA": "Brisbane Lions",
-        "teamB": "Port Adelaide Power",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446335/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "17/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_5daadb343a6c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
-      "event_name": "West Coast Eagles Vs Geelong Cats",
-      "eventInfo": {
-        "teamA": "West Coast Eagles",
-        "teamB": "Geelong Cats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "17/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_ba11b9305189"
     },
     {
       "status": "UPCOMING",
@@ -4932,37 +4685,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "16/10/2026 06:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-        },
-        {
-          "channel_name": "Server 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
-        },
-        {
-          "channel_name": "Server 3",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-        }
-      ],
-      "id": "evt_38747064c422"
-    },
-    {
-      "status": "ENDED",
       "Category": "Football",
       "event_name": "Vancouver FC Vs Halifax Wanderers FC",
       "eventInfo": {
@@ -4988,6 +4710,259 @@
         }
       ],
       "id": "evt_9b4b0f32667e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Auckland FC Vs Melbourne City",
+      "eventInfo": {
+        "teamA": "Auckland FC",
+        "teamB": "Melbourne City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/800224/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "17/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUUAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_31f4091cefdd"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Brisbane Roar Vs Central Coast Mariners",
+      "eventInfo": {
+        "teamA": "Brisbane Roar",
+        "teamB": "Central Coast Mariners",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174078/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/488881/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "17/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUUAAQQQQAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0c510341a58a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Newcastle Jets Vs Perth Glory",
+      "eventInfo": {
+        "teamA": "Newcastle Jets",
+        "teamB": "Perth Glory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174102/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "17/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_f35e2d847646"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Macarthur FC Vs Perth Glory",
+      "eventInfo": {
+        "teamA": "Macarthur FC",
+        "teamB": "Perth Glory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/371682/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2945/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "17/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ad43dcd20a74"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Western Sydney Wanderers Vs Melbourne Victory",
+      "eventInfo": {
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Melbourne Victory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174100/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "17/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + TNT5",
+          "stream_url": "http://193.47.62.41/hls/VUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/VUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9ac1e6bfa80c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlante FC Vs Pumas UNAM",
+      "eventInfo": {
+        "teamA": "Atlante FC",
+        "teamB": "Pumas UNAM",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "17/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ],
+      "id": "evt_9fb30fa58fb1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Club Tijuana Vs Club Puebla",
+      "eventInfo": {
+        "teamA": "Club Tijuana",
+        "teamB": "Club Puebla",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "17/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_638800932a92"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Papua New Guinea Vs Lebanon",
+      "eventInfo": {
+        "teamA": "Papua New Guinea",
+        "teamB": "Lebanon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/234307/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "17/10/2026 10:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ec5626e4ec00"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Papua New Guinea Vs France",
+      "eventInfo": {
+        "teamA": "Papua New Guinea",
+        "teamB": "France",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272013/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446307/image",
+        "eventName": "World Cup, Women ",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "startTime": "17/10/2026 08:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_caa0f8ace860"
     },
     {
       "status": "ENDED",
@@ -5166,6 +5141,69 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Los Angeles Lakers Vs Denver Nuggets",
+      "eventInfo": {
+        "teamA": "Los Angeles Lakers",
+        "teamB": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "17/10/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58126/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/139626cd-4279-417b-a718-e1470c5e219d.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/HTTTAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9a591c7e8ba2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "New Zealand Vs France",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "France",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164610/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/164616/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "17/10/2026 08:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/K111AAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_4ea58507b35a"
+    },
+    {
+      "status": "ENDED",
       "Category": "Rugby",
       "event_name": "Australia Vs Scotland",
       "eventInfo": {
@@ -5192,6 +5230,34 @@
         }
       ],
       "id": "evt_d95efc196781"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "MMA PFL Chicago Vs MMA PFL Chicago",
+      "eventInfo": {
+        "teamA": "MMA PFL Chicago",
+        "teamB": "MMA PFL Chicago",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
+        "eventName": "MMA PFL Chicago",
+        "event_logo": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
+        "startTime": "17/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58101/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/YDDD.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6433777c37c7"
     },
     {
       "status": "ENDED",
