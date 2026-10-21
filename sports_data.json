@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:12:55 PM 21-10-2026",
-  "total_matches": 82,
-  "live_match": 6,
+  "last_update_time": "09:18:01 PM 21-10-2026",
+  "total_matches": 86,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -37,6 +37,260 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "South Africa Vs Australia",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "TEST International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "21/10/2026 01:44:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+          "drm_key": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+          "drm_key": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2"
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_5785e599eb03"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Bangladesh Vs Afghanistan",
+      "eventInfo": {
+        "teamA": "Bangladesh",
+        "teamB": "Afghanistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "eventName": "ODI Tri-Series in United Arab Emirates",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "startTime": "21/10/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
+          "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
+          "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
+        },
+        {
+          "channel_name": "FANCODE IND IP",
+          "stream_url": "https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8",
+          "referer": "https://fancode.com/",
+          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
+        }
+      ],
+      "id": "evt_e1ce43dc1c48"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter U20 Vs Shakhtar Donetsk U19",
+      "eventInfo": {
+        "teamA": "Inter U20",
+        "teamB": "Shakhtar Donetsk U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/826804/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/107723/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_90b299797ada"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Madrid U19 Vs RB Leipzig U19",
+      "eventInfo": {
+        "teamA": "Real Madrid U19",
+        "teamB": "RB Leipzig U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/120854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/136294/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_de377ec979df"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aston Villa U19 Vs Viking FK U19",
+      "eventInfo": {
+        "teamA": "Aston Villa U19",
+        "teamB": "Viking FK U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e07aa6a6714d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Canada U17 Vs Norway U17",
+      "eventInfo": {
+        "teamA": "Canada U17",
+        "teamB": "Norway U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/44564/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/38066/image",
+        "eventName": "U17 Women's World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
+        "startTime": "21/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "id": "evt_bb5c13220d0d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Japan U17 Vs France U17",
+      "eventInfo": {
+        "teamA": "Japan U17",
+        "teamB": "France U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36913/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37866/image",
+        "eventName": "U17 Women's World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
+        "startTime": "21/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_1fe3934a612b"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
+      "event_name": "AEW Night Dynamite Vs AEW Night Dynamite",
+      "eventInfo": {
+        "teamA": "AEW Night Dynamite",
+        "teamB": "AEW Night Dynamite",
+        "teamAFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "teamBFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "eventName": "AEW DYNAMIC",
+        "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+        "startTime": "22/10/2026 06:01:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "FOX SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+        }
+      ],
+      "id": "evt_e4e534184d1e"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -46,7 +300,7 @@
         "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
         "eventName": "TENNIS | EVENTO",
         "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "startTime": "21/10/2026 01:50:00 PM"
+        "startTime": "22/10/2026 09:10:00 AM"
       },
       "streams": [
         {
@@ -134,147 +388,6 @@
       "id": "evt_a6252405842b"
     },
     {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "21/10/2026 01:50:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_dfa6ba76db50"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Australia",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "eventName": "TEST International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "21/10/2026 02:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
-          "drm_key": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
-          "drm_key": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2"
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_5785e599eb03"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
-      "eventInfo": {
-        "teamA": "SPORTS LIVE",
-        "teamB": "SPORTS LIVE",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "eventName": "SPORTS LIVE",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "startTime": "21/10/2026 01:50:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
-          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        }
-      ],
-      "id": "evt_cb92eaad2884"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Tasmania Jackjumpers Vs Brisbane Bullets",
-      "eventInfo": {
-        "teamA": "Tasmania Jackjumpers",
-        "teamB": "Brisbane Bullets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "21/10/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6eeed0abd419"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Boxing",
-      "event_name": "AEW Night Dynamite Vs AEW Night Dynamite",
-      "eventInfo": {
-        "teamA": "AEW Night Dynamite",
-        "teamB": "AEW Night Dynamite",
-        "teamAFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "teamBFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "eventName": "AEW DYNAMIC",
-        "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
-        "startTime": "22/10/2026 06:01:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "FOX SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
-        }
-      ],
-      "id": "evt_e4e534184d1e"
-    },
-    {
       "status": "UPCOMING",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
@@ -315,6 +428,61 @@
         }
       ],
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "22/10/2026 09:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf Open de Espana",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_dfa6ba76db50"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Other",
+      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
+      "eventInfo": {
+        "teamA": "SPORTS LIVE",
+        "teamB": "SPORTS LIVE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "eventName": "SPORTS LIVE",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "startTime": "22/10/2026 09:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
+          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
+        }
+      ],
+      "id": "evt_cb92eaad2884"
     },
     {
       "status": "UPCOMING",
@@ -468,54 +636,6 @@
         }
       ],
       "id": "evt_73fa2b108202"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Bangladesh Vs Afghanistan",
-      "eventInfo": {
-        "teamA": "Bangladesh",
-        "teamB": "Afghanistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "eventName": "ODI Tri-Series in United Arab Emirates",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
-        "startTime": "21/10/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
-          "drm_key": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
-          "drm_key": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
-        },
-        {
-          "channel_name": "FANCODE IND IP",
-          "stream_url": "https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8",
-          "referer": "https://fancode.com/",
-          "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
-        }
-      ],
-      "id": "evt_e1ce43dc1c48"
     },
     {
       "status": "UPCOMING",
@@ -1038,28 +1158,6 @@
         }
       ],
       "id": "evt_b8376728483e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Aston Villa U19 Vs Viking FK U19",
-      "eventInfo": {
-        "teamA": "Aston Villa U19",
-        "teamB": "Viking FK U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_e07aa6a6714d"
     },
     {
       "status": "UPCOMING",
@@ -1854,51 +1952,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Canada U17 Vs Norway U17",
-      "eventInfo": {
-        "teamA": "Canada U17",
-        "teamB": "Norway U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/44564/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38066/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "21/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_bb5c13220d0d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Japan U17 Vs France U17",
-      "eventInfo": {
-        "teamA": "Japan U17",
-        "teamB": "France U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36913/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37866/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "21/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_1fe3934a612b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Ghana U17 Vs Brazil U17",
       "eventInfo": {
         "teamA": "Ghana U17",
@@ -2211,6 +2264,80 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Lille U19 Vs Galatasaray U19",
+      "eventInfo": {
+        "teamA": "Lille U19",
+        "teamB": "Galatasaray U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296213/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/120868/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d4f52d0c9857"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Tasmania Jackjumpers Vs Brisbane Bullets",
+      "eventInfo": {
+        "teamA": "Tasmania Jackjumpers",
+        "teamB": "Brisbane Bullets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "21/10/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6eeed0abd419"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC 15 de Agosto de Akonibe Vs Simba SC",
+      "eventInfo": {
+        "teamA": "FC 15 de Agosto de Akonibe",
+        "teamB": "Simba SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/550481/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/212409/image",
+        "eventName": "CAF Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+        "startTime": "21/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_be7a714943d6"
     }
   ]
 }
